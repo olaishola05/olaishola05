@@ -1,6 +1,6 @@
 ### Hi there, I'm Ola Ishola - aka [netman5][website] 👋
 
-## I am currently a full time student at Microverse, learning Full Stack Web Development. I Teach programming && Mentor beginners
+## Currently a full time student at Microverse, learning Full Stack Web Development.
 
 - 🌱 I’m currently working on improving my crafts in Web Development
 - 👯 I’m looking to collaborate with other content creators
