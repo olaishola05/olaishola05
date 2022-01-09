@@ -7,7 +7,7 @@
 - Life student of JavaScript
 - 😄 Pronouns: He/Him
 - 🥅 2022 Goals: Contribute more to Open Source projects && get full time role in software development
-- 💬 Ask me about anythinging
+- 💬 Ask me about anything
 - 📫 Reach me here: olaishola@hotmail.co.uk
 
 ---
