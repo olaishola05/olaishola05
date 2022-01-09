@@ -21,5 +21,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netman5&hide=ejs&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=awesome-books&show_owner=netman5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=capstone&show_owner=netman5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=netman5.github.io&show_owner=netman5)](https://github.com/anuraghazra/github-readme-stats)
+
 [webiste]: https://netman5.github.io/
 [netman5]: https://github.com/netman5
