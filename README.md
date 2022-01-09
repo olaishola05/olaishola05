@@ -11,9 +11,15 @@
 
 ## My GitHub Stats
 
-<hr>
+---
 
-[![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=netman5)](https://github.com/anuraghazra/github-readme-stats)
+[![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=netman5&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## Most used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netman5&hide=ejs&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [webiste]: https://netman5.github.io/
 [netman5]: https://github.com/netman5
