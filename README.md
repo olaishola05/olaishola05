@@ -5,6 +5,7 @@
 - 🌱 I’m currently working on improving my crafts in Web Development
 - 👯 I’m looking to collaborate with other content creators
 - Life student of JavaScript
+- 😄 Pronouns: He/Him
 - 🥅 2022 Goals: Contribute more to Open Source projects && get full time role in software development
 - 💬 Ask me about anythinging
 - 📫 Reach me here: olaishola@hotmail.co.uk
@@ -58,7 +59,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=capstone&show_owner=netman5)](https://github.com/netman5/capstone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=netman5.github.io&show_owner=netman5)](https://github.com/netman5/netman5.github.io)
 
+### Recent Activity
+
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 [website]: https://netman5.github.io/
 [netman5]: https://github.com/netman5
