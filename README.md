@@ -1,4 +1,4 @@
-### Hi there, I'm Ola Ishola 👋
+### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Ola Ishola!
 
 ## Currently a full time student at Microverse, learning Full Stack Web Development.
 
