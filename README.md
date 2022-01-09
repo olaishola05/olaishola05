@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on improving my crafts in Web Development
 - 👯 I’m looking to collaborate with other content creators
-- Life student of JavaScript
+- man_student Life student of JavaScript
 - 🥅 2022 Goals: Contribute more to Open Source projects && get full time role in software development
 - 💬 Ask me about anythinging
 - 📫 Reach me here: olaishola@hotmail.co.uk
