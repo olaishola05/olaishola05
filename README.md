@@ -9,6 +9,20 @@
 - 💬 Ask me about anythinging
 - 📫 Reach me here: olaishola@hotmail.co.uk
 
+---
+
+### Connect with me:
+
+[<img align="left" alt="https://netman5.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[<img align="left" alt="netman5 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="netman5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="netman5 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<!-- [<img align="left" alt="netman5 | Polywork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/polywork.svg" />][polywork] -->
+
+<br>
+
 ## My GitHub Stats
 
 ---
@@ -29,5 +43,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=netman5.github.io&show_owner=netman5)](https://github.com/netman5/netman5.github.io)
 
-[webiste]: https://netman5.github.io/
+[website]: https://netman5.github.io/
 [netman5]: https://github.com/netman5
+[twitter]: https://twitter.com/orlaish
+[instagram]: https://instagram.com/xcodre
+[linkedin]: https://linkedin.com/in/ola-ishola
+[polywork]: https://www.polywork.com/olaish
