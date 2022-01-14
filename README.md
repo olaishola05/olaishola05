@@ -1,6 +1,8 @@
 ### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Ola Ishola!
 
-## Currently a full time student at Microverse, learning Full Stack Web Development.
+![hell](./animae/Grand%20Re-opening%20Sale.gif)
+
+A Full time student at Microverse, learning Full Stack Web Development.
 
 - 🌱 I’m currently working on improving my crafts in Web Development
 - 👯 I’m looking to collaborate with other content creators
