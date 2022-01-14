@@ -66,6 +66,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=capstone&show_owner=netman5)](https://github.com/netman5/capstone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=netman5.github.io&show_owner=netman5)](https://github.com/netman5/netman5.github.io)
 
+<p>You can check out my portfolio <a href="https://netman5.github.io/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+
 [website]: https://netman5.github.io/
 [netman5]: https://github.com/netman5
 [twitter]: https://twitter.com/orlaish
