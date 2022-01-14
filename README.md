@@ -58,6 +58,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/netman5/To-do/pull/4) in [netman5/To-do](https://github.com/netman5/To-do)
+2. 🗣 Commented on [#4](https://github.com/netman5/To-do/issues/4) in [netman5/To-do](https://github.com/netman5/To-do)
+3. 💪 Opened PR [#4](https://github.com/netman5/To-do/pull/4) in [netman5/To-do](https://github.com/netman5/To-do)
+4. 🎉 Merged PR [#3](https://github.com/netman5/To-do/pull/3) in [netman5/To-do](https://github.com/netman5/To-do)
+5. 💪 Opened PR [#3](https://github.com/netman5/To-do/pull/3) in [netman5/To-do](https://github.com/netman5/To-do)
 <!--END_SECTION:activity-->
 
 <br>
