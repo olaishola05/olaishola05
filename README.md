@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/netman5/To-do/pull/5) in [netman5/To-do](https://github.com/netman5/To-do)
-2. 💪 Opened PR [#5](https://github.com/netman5/To-do/pull/5) in [netman5/To-do](https://github.com/netman5/To-do)
-3. 🎉 Merged PR [#7](https://github.com/netman5/capstone/pull/7) in [netman5/capstone](https://github.com/netman5/capstone)
-4. 💪 Opened PR [#7](https://github.com/netman5/capstone/pull/7) in [netman5/capstone](https://github.com/netman5/capstone)
-5. 🎉 Merged PR [#16](https://github.com/netman5/netman5.github.io/pull/16) in [netman5/netman5.github.io](https://github.com/netman5/netman5.github.io)
+1. 🎉 Merged PR [#2](https://github.com/netman5/book-collection/pull/2) in [netman5/book-collection](https://github.com/netman5/book-collection)
+2. 💪 Opened PR [#2](https://github.com/netman5/book-collection/pull/2) in [netman5/book-collection](https://github.com/netman5/book-collection)
+3. 🎉 Merged PR [#5](https://github.com/netman5/To-do/pull/5) in [netman5/To-do](https://github.com/netman5/To-do)
+4. 💪 Opened PR [#5](https://github.com/netman5/To-do/pull/5) in [netman5/To-do](https://github.com/netman5/To-do)
+5. 🎉 Merged PR [#7](https://github.com/netman5/capstone/pull/7) in [netman5/capstone](https://github.com/netman5/capstone)
 <!--END_SECTION:activity-->
 
 <br>
