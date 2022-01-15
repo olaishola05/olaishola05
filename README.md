@@ -68,11 +68,10 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=awesome-books&show_owner=netman5)](https://github.com/netman5/awesome-books)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=capstone&show_owner=netman5)](https://github.com/netman5/capstone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=netman5.github.io&show_owner=netman5)](https://github.com/netman5/netman5.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=To-do&show_owner=netman5)](https://github.com/netman5/To-do)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=book-collection&show_owner=netman5)](https://github.com/netman5/book-collection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=capstone&show_owner=netman5)](https://github.com/netman5/capstone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=netman5.github.io&show_owner=netman5)](https://github.com/netman5/netman5.github.io)
 
 <p>You can check out my portfolio <a href="https://netman5.github.io/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
