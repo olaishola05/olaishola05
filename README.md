@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#9](https://github.com/netman5/To-do/issues/9) in [netman5/To-do](https://github.com/netman5/To-do)
-2. ❗️ Opened issue [#8](https://github.com/netman5/To-do/issues/8) in [netman5/To-do](https://github.com/netman5/To-do)
-3. ❗️ Opened issue [#7](https://github.com/netman5/To-do/issues/7) in [netman5/To-do](https://github.com/netman5/To-do)
-4. ❗️ Opened issue [#6](https://github.com/netman5/To-do/issues/6) in [netman5/To-do](https://github.com/netman5/To-do)
-5. 🎉 Merged PR [#2](https://github.com/netman5/book-collection/pull/2) in [netman5/book-collection](https://github.com/netman5/book-collection)
+1. ❗️ Opened issue [#10](https://github.com/netman5/To-do/issues/10) in [netman5/To-do](https://github.com/netman5/To-do)
+2. ❗️ Opened issue [#9](https://github.com/netman5/To-do/issues/9) in [netman5/To-do](https://github.com/netman5/To-do)
+3. ❗️ Opened issue [#8](https://github.com/netman5/To-do/issues/8) in [netman5/To-do](https://github.com/netman5/To-do)
+4. ❗️ Opened issue [#7](https://github.com/netman5/To-do/issues/7) in [netman5/To-do](https://github.com/netman5/To-do)
+5. ❗️ Opened issue [#6](https://github.com/netman5/To-do/issues/6) in [netman5/To-do](https://github.com/netman5/To-do)
 <!--END_SECTION:activity-->
 
 <br>
