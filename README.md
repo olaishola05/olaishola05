@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2](https://github.com/netman5/To-do/issues/2) in [netman5/To-do](https://github.com/netman5/To-do)
-2. 🗣 Commented on [#2](https://github.com/netman5/To-do/issues/2) in [netman5/To-do](https://github.com/netman5/To-do)
-3. 🗣 Commented on [#6](https://github.com/netman5/To-do/issues/6) in [netman5/To-do](https://github.com/netman5/To-do)
-4. ❗️ Closed issue [#6](https://github.com/netman5/To-do/issues/6) in [netman5/To-do](https://github.com/netman5/To-do)
-5. ❗️ Closed issue [#7](https://github.com/netman5/To-do/issues/7) in [netman5/To-do](https://github.com/netman5/To-do)
+1. 🎉 Merged PR [#17](https://github.com/netman5/netman5.github.io/pull/17) in [netman5/netman5.github.io](https://github.com/netman5/netman5.github.io)
+2. 💪 Opened PR [#17](https://github.com/netman5/netman5.github.io/pull/17) in [netman5/netman5.github.io](https://github.com/netman5/netman5.github.io)
+3. ❗️ Closed issue [#2](https://github.com/netman5/To-do/issues/2) in [netman5/To-do](https://github.com/netman5/To-do)
+4. 🗣 Commented on [#2](https://github.com/netman5/To-do/issues/2) in [netman5/To-do](https://github.com/netman5/To-do)
+5. 🗣 Commented on [#6](https://github.com/netman5/To-do/issues/6) in [netman5/To-do](https://github.com/netman5/To-do)
 <!--END_SECTION:activity-->
 
 <br>
