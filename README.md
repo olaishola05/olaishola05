@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#10](https://github.com/netman5/To-do/issues/10) in [netman5/To-do](https://github.com/netman5/To-do)
-2. 🗣 Commented on [#10](https://github.com/netman5/To-do/issues/10) in [netman5/To-do](https://github.com/netman5/To-do)
-3. 🎉 Merged PR [#1](https://github.com/netman5/todolist-review/pull/1) in [netman5/todolist-review](https://github.com/netman5/todolist-review)
-4. 🗣 Commented on [#1](https://github.com/netman5/todolist-review/issues/1) in [netman5/todolist-review](https://github.com/netman5/todolist-review)
-5. 🗣 Commented on [#1](https://github.com/netman5/todolist-review/issues/1) in [netman5/todolist-review](https://github.com/netman5/todolist-review)
+1. ❗️ Closed issue [#2](https://github.com/netman5/To-do/issues/2) in [netman5/To-do](https://github.com/netman5/To-do)
+2. 🗣 Commented on [#2](https://github.com/netman5/To-do/issues/2) in [netman5/To-do](https://github.com/netman5/To-do)
+3. 🗣 Commented on [#6](https://github.com/netman5/To-do/issues/6) in [netman5/To-do](https://github.com/netman5/To-do)
+4. ❗️ Closed issue [#6](https://github.com/netman5/To-do/issues/6) in [netman5/To-do](https://github.com/netman5/To-do)
+5. ❗️ Closed issue [#7](https://github.com/netman5/To-do/issues/7) in [netman5/To-do](https://github.com/netman5/To-do)
 <!--END_SECTION:activity-->
 
 <br>
