@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/netman5/todolist-review/pull/1) in [netman5/todolist-review](https://github.com/netman5/todolist-review)
-2. 🗣 Commented on [#1](https://github.com/netman5/todolist-review/issues/1) in [netman5/todolist-review](https://github.com/netman5/todolist-review)
-3. 🗣 Commented on [#1](https://github.com/netman5/todolist-review/issues/1) in [netman5/todolist-review](https://github.com/netman5/todolist-review)
+1. ❗️ Closed issue [#10](https://github.com/netman5/To-do/issues/10) in [netman5/To-do](https://github.com/netman5/To-do)
+2. 🗣 Commented on [#10](https://github.com/netman5/To-do/issues/10) in [netman5/To-do](https://github.com/netman5/To-do)
+3. 🎉 Merged PR [#1](https://github.com/netman5/todolist-review/pull/1) in [netman5/todolist-review](https://github.com/netman5/todolist-review)
 4. 🗣 Commented on [#1](https://github.com/netman5/todolist-review/issues/1) in [netman5/todolist-review](https://github.com/netman5/todolist-review)
-5. 🗣 Commented on [#4](https://github.com/netman5/capstone/issues/4) in [netman5/capstone](https://github.com/netman5/capstone)
+5. 🗣 Commented on [#1](https://github.com/netman5/todolist-review/issues/1) in [netman5/todolist-review](https://github.com/netman5/todolist-review)
 <!--END_SECTION:activity-->
 
 <br>
