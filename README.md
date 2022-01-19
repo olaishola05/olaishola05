@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/netman5/capstone/issues/4) in [netman5/capstone](https://github.com/netman5/capstone)
-2. ❗️ Closed issue [#4](https://github.com/netman5/capstone/issues/4) in [netman5/capstone](https://github.com/netman5/capstone)
-3. 💪 Opened PR [#1](https://github.com/netman5/todolist-review/pull/1) in [netman5/todolist-review](https://github.com/netman5/todolist-review)
-4. ❗️ Opened issue [#10](https://github.com/netman5/To-do/issues/10) in [netman5/To-do](https://github.com/netman5/To-do)
-5. ❗️ Opened issue [#9](https://github.com/netman5/To-do/issues/9) in [netman5/To-do](https://github.com/netman5/To-do)
+1. 🗣 Commented on [#1](https://github.com/netman5/todolist-review/issues/1) in [netman5/todolist-review](https://github.com/netman5/todolist-review)
+2. 🗣 Commented on [#1](https://github.com/netman5/todolist-review/issues/1) in [netman5/todolist-review](https://github.com/netman5/todolist-review)
+3. 🗣 Commented on [#4](https://github.com/netman5/capstone/issues/4) in [netman5/capstone](https://github.com/netman5/capstone)
+4. ❗️ Closed issue [#4](https://github.com/netman5/capstone/issues/4) in [netman5/capstone](https://github.com/netman5/capstone)
+5. 💪 Opened PR [#1](https://github.com/netman5/todolist-review/pull/1) in [netman5/todolist-review](https://github.com/netman5/todolist-review)
 <!--END_SECTION:activity-->
 
 <br>
