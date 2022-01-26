@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/netman5/Leaderboard/pull/1) in [netman5/Leaderboard](https://github.com/netman5/Leaderboard)
-2. 🗣 Commented on [#1](https://github.com/netman5/Leaderboard/issues/1) in [netman5/Leaderboard](https://github.com/netman5/Leaderboard)
-3. 💪 Opened PR [#1](https://github.com/netman5/Leaderboard/pull/1) in [netman5/Leaderboard](https://github.com/netman5/Leaderboard)
-4. 🎉 Merged PR [#1](https://github.com/netman5/gitflow/pull/1) in [netman5/gitflow](https://github.com/netman5/gitflow)
-5. 🎉 Merged PR [#2](https://github.com/netman5/gitflow/pull/2) in [netman5/gitflow](https://github.com/netman5/gitflow)
+1. 💪 Opened PR [#2](https://github.com/netman5/Leaderboard/pull/2) in [netman5/Leaderboard](https://github.com/netman5/Leaderboard)
+2. 🎉 Merged PR [#1](https://github.com/netman5/Leaderboard/pull/1) in [netman5/Leaderboard](https://github.com/netman5/Leaderboard)
+3. 🗣 Commented on [#1](https://github.com/netman5/Leaderboard/issues/1) in [netman5/Leaderboard](https://github.com/netman5/Leaderboard)
+4. 💪 Opened PR [#1](https://github.com/netman5/Leaderboard/pull/1) in [netman5/Leaderboard](https://github.com/netman5/Leaderboard)
+5. 🎉 Merged PR [#1](https://github.com/netman5/gitflow/pull/1) in [netman5/gitflow](https://github.com/netman5/gitflow)
 <!--END_SECTION:activity-->
 
 <br>
