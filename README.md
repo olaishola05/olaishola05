@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/netman5/Leaderboard/issues/5) in [netman5/Leaderboard](https://github.com/netman5/Leaderboard)
-2. 🎉 Merged PR [#4](https://github.com/netman5/Leaderboard/pull/4) in [netman5/Leaderboard](https://github.com/netman5/Leaderboard)
-3. 💪 Opened PR [#4](https://github.com/netman5/Leaderboard/pull/4) in [netman5/Leaderboard](https://github.com/netman5/Leaderboard)
-4. ❗️ Opened issue [#6](https://github.com/VuDej/Leaderboard/issues/6) in [VuDej/Leaderboard](https://github.com/VuDej/Leaderboard)
-5. 🎉 Merged PR [#3](https://github.com/netman5/Leaderboard/pull/3) in [netman5/Leaderboard](https://github.com/netman5/Leaderboard)
+1. 🎉 Merged PR [#24](https://github.com/TimmyChan99/Kanban-practice/pull/24) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
+2. 💪 Opened PR [#24](https://github.com/TimmyChan99/Kanban-practice/pull/24) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
+3. 🗣 Commented on [#22](https://github.com/TimmyChan99/Kanban-practice/issues/22) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
+4. 🗣 Commented on [#5](https://github.com/netman5/Leaderboard/issues/5) in [netman5/Leaderboard](https://github.com/netman5/Leaderboard)
+5. 🎉 Merged PR [#4](https://github.com/netman5/Leaderboard/pull/4) in [netman5/Leaderboard](https://github.com/netman5/Leaderboard)
 <!--END_SECTION:activity-->
 
 <br>
