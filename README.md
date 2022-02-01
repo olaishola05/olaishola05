@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#26](https://github.com/TimmyChan99/Kanban-practice/issues/26) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
-2. 💪 Opened PR [#26](https://github.com/TimmyChan99/Kanban-practice/pull/26) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
-3. 🎉 Merged PR [#24](https://github.com/TimmyChan99/Kanban-practice/pull/24) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
-4. 💪 Opened PR [#24](https://github.com/TimmyChan99/Kanban-practice/pull/24) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
-5. 🗣 Commented on [#22](https://github.com/TimmyChan99/Kanban-practice/issues/22) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
+1. 🎉 Merged PR [#26](https://github.com/TimmyChan99/Kanban-practice/pull/26) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
+2. 🗣 Commented on [#27](https://github.com/TimmyChan99/Kanban-practice/issues/27) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
+3. 🗣 Commented on [#26](https://github.com/TimmyChan99/Kanban-practice/issues/26) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
+4. 🗣 Commented on [#26](https://github.com/TimmyChan99/Kanban-practice/issues/26) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
+5. 💪 Opened PR [#26](https://github.com/TimmyChan99/Kanban-practice/pull/26) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
 <!--END_SECTION:activity-->
 
 <br>
