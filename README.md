@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#31](https://github.com/TimmyChan99/Kanban-practice/pull/31) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
-2. ❗️ Opened issue [#5](https://github.com/tresorsawasawa/Leaderboard_App/issues/5) in [tresorsawasawa/Leaderboard_App](https://github.com/tresorsawasawa/Leaderboard_App)
-3. 🎉 Merged PR [#26](https://github.com/TimmyChan99/Kanban-practice/pull/26) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
-4. 🗣 Commented on [#27](https://github.com/TimmyChan99/Kanban-practice/issues/27) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
-5. 🗣 Commented on [#26](https://github.com/TimmyChan99/Kanban-practice/issues/26) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
+1. 🎉 Merged PR [#31](https://github.com/TimmyChan99/Kanban-practice/pull/31) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
+2. 💪 Opened PR [#31](https://github.com/TimmyChan99/Kanban-practice/pull/31) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
+3. ❗️ Opened issue [#5](https://github.com/tresorsawasawa/Leaderboard_App/issues/5) in [tresorsawasawa/Leaderboard_App](https://github.com/tresorsawasawa/Leaderboard_App)
+4. 🎉 Merged PR [#26](https://github.com/TimmyChan99/Kanban-practice/pull/26) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
+5. 🗣 Commented on [#27](https://github.com/TimmyChan99/Kanban-practice/issues/27) in [TimmyChan99/Kanban-practice](https://github.com/TimmyChan99/Kanban-practice)
 <!--END_SECTION:activity-->
 
 <br>
