@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/netman5/react-todos/pull/1) in [netman5/react-todos](https://github.com/netman5/react-todos)
-2. 🗣 Commented on [#5](https://github.com/netman5/react-calculator/issues/5) in [netman5/react-calculator](https://github.com/netman5/react-calculator)
-3. 🎉 Merged PR [#5](https://github.com/netman5/react-calculator/pull/5) in [netman5/react-calculator](https://github.com/netman5/react-calculator)
-4. 💪 Opened PR [#5](https://github.com/netman5/react-calculator/pull/5) in [netman5/react-calculator](https://github.com/netman5/react-calculator)
-5. 🎉 Merged PR [#4](https://github.com/netman5/react-calculator/pull/4) in [netman5/react-calculator](https://github.com/netman5/react-calculator)
+1. 💪 Opened PR [#6](https://github.com/netman5/react-calculator/pull/6) in [netman5/react-calculator](https://github.com/netman5/react-calculator)
+2. 💪 Opened PR [#1](https://github.com/netman5/react-todos/pull/1) in [netman5/react-todos](https://github.com/netman5/react-todos)
+3. 🗣 Commented on [#5](https://github.com/netman5/react-calculator/issues/5) in [netman5/react-calculator](https://github.com/netman5/react-calculator)
+4. 🎉 Merged PR [#5](https://github.com/netman5/react-calculator/pull/5) in [netman5/react-calculator](https://github.com/netman5/react-calculator)
+5. 💪 Opened PR [#5](https://github.com/netman5/react-calculator/pull/5) in [netman5/react-calculator](https://github.com/netman5/react-calculator)
 <!--END_SECTION:activity-->
 
 <br>
