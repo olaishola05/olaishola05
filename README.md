@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/netman5/bookStore/pull/2) in [netman5/bookStore](https://github.com/netman5/bookStore)
-2. 🎉 Merged PR [#1](https://github.com/netman5/bookStore/pull/1) in [netman5/bookStore](https://github.com/netman5/bookStore)
-3. 🗣 Commented on [#1](https://github.com/netman5/bookStore/issues/1) in [netman5/bookStore](https://github.com/netman5/bookStore)
-4. 💪 Opened PR [#1](https://github.com/netman5/bookStore/pull/1) in [netman5/bookStore](https://github.com/netman5/bookStore)
-5. 🎉 Merged PR [#9](https://github.com/netman5/react-calculator/pull/9) in [netman5/react-calculator](https://github.com/netman5/react-calculator)
+1. 🎉 Merged PR [#2](https://github.com/netman5/bookStore/pull/2) in [netman5/bookStore](https://github.com/netman5/bookStore)
+2. 🗣 Commented on [#2](https://github.com/netman5/bookStore/issues/2) in [netman5/bookStore](https://github.com/netman5/bookStore)
+3. 💪 Opened PR [#2](https://github.com/netman5/bookStore/pull/2) in [netman5/bookStore](https://github.com/netman5/bookStore)
+4. 🎉 Merged PR [#1](https://github.com/netman5/bookStore/pull/1) in [netman5/bookStore](https://github.com/netman5/bookStore)
+5. 🗣 Commented on [#1](https://github.com/netman5/bookStore/issues/1) in [netman5/bookStore](https://github.com/netman5/bookStore)
 <!--END_SECTION:activity-->
 
 <br>
