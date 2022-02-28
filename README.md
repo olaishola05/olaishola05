@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#25](https://github.com/netman5/spaceX/issues/25) in [netman5/spaceX](https://github.com/netman5/spaceX)
-2. ❗️ Opened issue [#25](https://github.com/netman5/spaceX/issues/25) in [netman5/spaceX](https://github.com/netman5/spaceX)
-3. ❗️ Closed issue [#19](https://github.com/netman5/spaceX/issues/19) in [netman5/spaceX](https://github.com/netman5/spaceX)
-4. ❗️ Closed issue [#16](https://github.com/netman5/spaceX/issues/16) in [netman5/spaceX](https://github.com/netman5/spaceX)
-5. ❗️ Closed issue [#14](https://github.com/netman5/spaceX/issues/14) in [netman5/spaceX](https://github.com/netman5/spaceX)
+1. 💪 Opened PR [#26](https://github.com/netman5/spaceX/pull/26) in [netman5/spaceX](https://github.com/netman5/spaceX)
+2. 🗣 Commented on [#25](https://github.com/netman5/spaceX/issues/25) in [netman5/spaceX](https://github.com/netman5/spaceX)
+3. ❗️ Opened issue [#25](https://github.com/netman5/spaceX/issues/25) in [netman5/spaceX](https://github.com/netman5/spaceX)
+4. ❗️ Closed issue [#19](https://github.com/netman5/spaceX/issues/19) in [netman5/spaceX](https://github.com/netman5/spaceX)
+5. ❗️ Closed issue [#16](https://github.com/netman5/spaceX/issues/16) in [netman5/spaceX](https://github.com/netman5/spaceX)
 <!--END_SECTION:activity-->
 
 <br>
