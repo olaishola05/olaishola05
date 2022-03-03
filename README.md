@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#30](https://github.com/netman5/spaceX/pull/30) in [netman5/spaceX](https://github.com/netman5/spaceX)
-2. 🎉 Merged PR [#27](https://github.com/netman5/spaceX/pull/27) in [netman5/spaceX](https://github.com/netman5/spaceX)
-3. 🗣 Commented on [#27](https://github.com/netman5/spaceX/issues/27) in [netman5/spaceX](https://github.com/netman5/spaceX)
-4. 💪 Opened PR [#27](https://github.com/netman5/spaceX/pull/27) in [netman5/spaceX](https://github.com/netman5/spaceX)
-5. 🎉 Merged PR [#26](https://github.com/netman5/spaceX/pull/26) in [netman5/spaceX](https://github.com/netman5/spaceX)
+1. 🎉 Merged PR [#30](https://github.com/netman5/spaceX/pull/30) in [netman5/spaceX](https://github.com/netman5/spaceX)
+2. 💪 Opened PR [#30](https://github.com/netman5/spaceX/pull/30) in [netman5/spaceX](https://github.com/netman5/spaceX)
+3. 🎉 Merged PR [#27](https://github.com/netman5/spaceX/pull/27) in [netman5/spaceX](https://github.com/netman5/spaceX)
+4. 🗣 Commented on [#27](https://github.com/netman5/spaceX/issues/27) in [netman5/spaceX](https://github.com/netman5/spaceX)
+5. 💪 Opened PR [#27](https://github.com/netman5/spaceX/pull/27) in [netman5/spaceX](https://github.com/netman5/spaceX)
 <!--END_SECTION:activity-->
 
 <br>
