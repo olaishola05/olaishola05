@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/netman5/stockprice/pull/3) in [netman5/stockprice](https://github.com/netman5/stockprice)
-2. ❌ Closed PR [#2](https://github.com/netman5/stockprice/pull/2) in [netman5/stockprice](https://github.com/netman5/stockprice)
-3. 💪 Opened PR [#2](https://github.com/netman5/stockprice/pull/2) in [netman5/stockprice](https://github.com/netman5/stockprice)
-4. 🎉 Merged PR [#1](https://github.com/netman5/stockprice/pull/1) in [netman5/stockprice](https://github.com/netman5/stockprice)
-5. 💪 Opened PR [#1](https://github.com/netman5/stockprice/pull/1) in [netman5/stockprice](https://github.com/netman5/stockprice)
+1. 🎉 Merged PR [#4](https://github.com/netman5/stockprice/pull/4) in [netman5/stockprice](https://github.com/netman5/stockprice)
+2. 💪 Opened PR [#4](https://github.com/netman5/stockprice/pull/4) in [netman5/stockprice](https://github.com/netman5/stockprice)
+3. 🎉 Merged PR [#3](https://github.com/netman5/stockprice/pull/3) in [netman5/stockprice](https://github.com/netman5/stockprice)
+4. 💪 Opened PR [#3](https://github.com/netman5/stockprice/pull/3) in [netman5/stockprice](https://github.com/netman5/stockprice)
+5. ❌ Closed PR [#2](https://github.com/netman5/stockprice/pull/2) in [netman5/stockprice](https://github.com/netman5/stockprice)
 <!--END_SECTION:activity-->
 
 <br>
