@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/netman5/vet-clinic-db/pull/2) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
-2. 🎉 Merged PR [#1](https://github.com/netman5/vet-clinic-db/pull/1) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
-3. 🗣 Commented on [#1](https://github.com/netman5/vet-clinic-db/issues/1) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
-4. 💪 Opened PR [#1](https://github.com/netman5/vet-clinic-db/pull/1) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
-5. 🎉 Merged PR [#5](https://github.com/netman5/stockprice/pull/5) in [netman5/stockprice](https://github.com/netman5/stockprice)
+1. 🎉 Merged PR [#2](https://github.com/netman5/vet-clinic-db/pull/2) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
+2. 🗣 Commented on [#2](https://github.com/netman5/vet-clinic-db/issues/2) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
+3. 💪 Opened PR [#2](https://github.com/netman5/vet-clinic-db/pull/2) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
+4. 🎉 Merged PR [#1](https://github.com/netman5/vet-clinic-db/pull/1) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
+5. 🗣 Commented on [#1](https://github.com/netman5/vet-clinic-db/issues/1) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
 <!--END_SECTION:activity-->
 
 <br>
