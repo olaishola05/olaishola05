@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/netman5/vet-clinic-db/pull/4) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
-2. 🗣 Commented on [#4](https://github.com/netman5/vet-clinic-db/issues/4) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
-3. 💪 Opened PR [#4](https://github.com/netman5/vet-clinic-db/pull/4) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
-4. 🎉 Merged PR [#3](https://github.com/netman5/vet-clinic-db/pull/3) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
-5. 🗣 Commented on [#3](https://github.com/netman5/vet-clinic-db/issues/3) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
+1. 🎉 Merged PR [#1](https://github.com/netman5/decoding-morse-code/pull/1) in [netman5/decoding-morse-code](https://github.com/netman5/decoding-morse-code)
+2. 🗣 Commented on [#1](https://github.com/netman5/decoding-morse-code/issues/1) in [netman5/decoding-morse-code](https://github.com/netman5/decoding-morse-code)
+3. 💪 Opened PR [#1](https://github.com/netman5/decoding-morse-code/pull/1) in [netman5/decoding-morse-code](https://github.com/netman5/decoding-morse-code)
+4. 🎉 Merged PR [#4](https://github.com/netman5/vet-clinic-db/pull/4) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
+5. 🗣 Commented on [#4](https://github.com/netman5/vet-clinic-db/issues/4) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
 <!--END_SECTION:activity-->
 
 <br>
