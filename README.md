@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/netman5/Enumerable/pull/1) in [netman5/Enumerable](https://github.com/netman5/Enumerable)
-2. 🎉 Merged PR [#1](https://github.com/netman5/decoding-morse-code/pull/1) in [netman5/decoding-morse-code](https://github.com/netman5/decoding-morse-code)
-3. 🗣 Commented on [#1](https://github.com/netman5/decoding-morse-code/issues/1) in [netman5/decoding-morse-code](https://github.com/netman5/decoding-morse-code)
-4. 💪 Opened PR [#1](https://github.com/netman5/decoding-morse-code/pull/1) in [netman5/decoding-morse-code](https://github.com/netman5/decoding-morse-code)
-5. 🎉 Merged PR [#4](https://github.com/netman5/vet-clinic-db/pull/4) in [netman5/vet-clinic-db](https://github.com/netman5/vet-clinic-db)
+1. 🎉 Merged PR [#1](https://github.com/netman5/Enumerable/pull/1) in [netman5/Enumerable](https://github.com/netman5/Enumerable)
+2. 💪 Opened PR [#1](https://github.com/netman5/Enumerable/pull/1) in [netman5/Enumerable](https://github.com/netman5/Enumerable)
+3. 🎉 Merged PR [#1](https://github.com/netman5/decoding-morse-code/pull/1) in [netman5/decoding-morse-code](https://github.com/netman5/decoding-morse-code)
+4. 🗣 Commented on [#1](https://github.com/netman5/decoding-morse-code/issues/1) in [netman5/decoding-morse-code](https://github.com/netman5/decoding-morse-code)
+5. 💪 Opened PR [#1](https://github.com/netman5/decoding-morse-code/pull/1) in [netman5/decoding-morse-code](https://github.com/netman5/decoding-morse-code)
 <!--END_SECTION:activity-->
 
 <br>
