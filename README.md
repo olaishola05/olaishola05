@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/netman5/Enumerable/pull/1) in [netman5/Enumerable](https://github.com/netman5/Enumerable)
-2. 💪 Opened PR [#1](https://github.com/netman5/Enumerable/pull/1) in [netman5/Enumerable](https://github.com/netman5/Enumerable)
-3. 🎉 Merged PR [#1](https://github.com/netman5/decoding-morse-code/pull/1) in [netman5/decoding-morse-code](https://github.com/netman5/decoding-morse-code)
-4. 🗣 Commented on [#1](https://github.com/netman5/decoding-morse-code/issues/1) in [netman5/decoding-morse-code](https://github.com/netman5/decoding-morse-code)
-5. 💪 Opened PR [#1](https://github.com/netman5/decoding-morse-code/pull/1) in [netman5/decoding-morse-code](https://github.com/netman5/decoding-morse-code)
+1. 🎉 Merged PR [#1](https://github.com/netman5/oop-school-library/pull/1) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
+2. 🗣 Commented on [#1](https://github.com/netman5/oop-school-library/issues/1) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
+3. 💪 Opened PR [#1](https://github.com/netman5/oop-school-library/pull/1) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
+4. 🎉 Merged PR [#1](https://github.com/netman5/Enumerable/pull/1) in [netman5/Enumerable](https://github.com/netman5/Enumerable)
+5. 💪 Opened PR [#1](https://github.com/netman5/Enumerable/pull/1) in [netman5/Enumerable](https://github.com/netman5/Enumerable)
 <!--END_SECTION:activity-->
 
 <br>
