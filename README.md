@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/netman5/oop-school-library/pull/2) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
-2. 🗣 Commented on [#2](https://github.com/netman5/oop-school-library/issues/2) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
-3. 💪 Opened PR [#2](https://github.com/netman5/oop-school-library/pull/2) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
-4. 🎉 Merged PR [#1](https://github.com/netman5/oop-school-library/pull/1) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
-5. 🗣 Commented on [#1](https://github.com/netman5/oop-school-library/issues/1) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
+1. 💪 Opened PR [#3](https://github.com/netman5/oop-school-library/pull/3) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
+2. 🎉 Merged PR [#2](https://github.com/netman5/oop-school-library/pull/2) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
+3. 🗣 Commented on [#2](https://github.com/netman5/oop-school-library/issues/2) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
+4. 💪 Opened PR [#2](https://github.com/netman5/oop-school-library/pull/2) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
+5. 🎉 Merged PR [#1](https://github.com/netman5/oop-school-library/pull/1) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
 <!--END_SECTION:activity-->
 
 <br>
