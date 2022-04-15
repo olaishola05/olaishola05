@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/netman5/Test-Driven-Development/pull/2) in [netman5/Test-Driven-Development](https://github.com/netman5/Test-Driven-Development)
-2. 🎉 Merged PR [#1](https://github.com/netman5/Test-Driven-Development/pull/1) in [netman5/Test-Driven-Development](https://github.com/netman5/Test-Driven-Development)
-3. 💪 Opened PR [#1](https://github.com/netman5/Test-Driven-Development/pull/1) in [netman5/Test-Driven-Development](https://github.com/netman5/Test-Driven-Development)
-4. 🎉 Merged PR [#5](https://github.com/netman5/oop-school-library/pull/5) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
-5. 💪 Opened PR [#5](https://github.com/netman5/oop-school-library/pull/5) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
+1. 🎉 Merged PR [#2](https://github.com/netman5/Test-Driven-Development/pull/2) in [netman5/Test-Driven-Development](https://github.com/netman5/Test-Driven-Development)
+2. 💪 Opened PR [#2](https://github.com/netman5/Test-Driven-Development/pull/2) in [netman5/Test-Driven-Development](https://github.com/netman5/Test-Driven-Development)
+3. 🎉 Merged PR [#1](https://github.com/netman5/Test-Driven-Development/pull/1) in [netman5/Test-Driven-Development](https://github.com/netman5/Test-Driven-Development)
+4. 💪 Opened PR [#1](https://github.com/netman5/Test-Driven-Development/pull/1) in [netman5/Test-Driven-Development](https://github.com/netman5/Test-Driven-Development)
+5. 🎉 Merged PR [#5](https://github.com/netman5/oop-school-library/pull/5) in [netman5/oop-school-library](https://github.com/netman5/oop-school-library)
 <!--END_SECTION:activity-->
 
 <br>
