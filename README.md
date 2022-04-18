@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#4](https://github.com/netman5/catalog_of_my_things/issues/4) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
-2. ❗️ Opened issue [#3](https://github.com/netman5/catalog_of_my_things/issues/3) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
-3. ❗️ Opened issue [#2](https://github.com/netman5/catalog_of_my_things/issues/2) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
-4. ❗️ Opened issue [#1](https://github.com/netman5/catalog_of_my_things/issues/1) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
-5. 🎉 Merged PR [#2](https://github.com/netman5/Test-Driven-Development/pull/2) in [netman5/Test-Driven-Development](https://github.com/netman5/Test-Driven-Development)
+1. ❗️ Opened issue [#8](https://github.com/netman5/catalog_of_my_things/issues/8) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
+2. ❗️ Opened issue [#7](https://github.com/netman5/catalog_of_my_things/issues/7) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
+3. ❗️ Opened issue [#6](https://github.com/netman5/catalog_of_my_things/issues/6) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
+4. ❗️ Opened issue [#5](https://github.com/netman5/catalog_of_my_things/issues/5) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
+5. ❗️ Opened issue [#4](https://github.com/netman5/catalog_of_my_things/issues/4) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
 <!--END_SECTION:activity-->
 
 <br>
