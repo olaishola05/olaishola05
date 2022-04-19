@@ -59,11 +59,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#30](https://github.com/netman5/catalog_of_my_things/pull/30) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
-2. ❗️ Opened issue [#29](https://github.com/netman5/catalog_of_my_things/issues/29) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
-3. ❗️ Opened issue [#28](https://github.com/netman5/catalog_of_my_things/issues/28) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
-4. ❗️ Opened issue [#27](https://github.com/netman5/catalog_of_my_things/issues/27) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
-5. ❗️ Opened issue [#26](https://github.com/netman5/catalog_of_my_things/issues/26) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
+1. 💪 Opened PR [#31](https://github.com/netman5/catalog_of_my_things/pull/31) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
+2. 💪 Opened PR [#30](https://github.com/netman5/catalog_of_my_things/pull/30) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
+3. ❗️ Opened issue [#29](https://github.com/netman5/catalog_of_my_things/issues/29) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
+4. ❗️ Opened issue [#28](https://github.com/netman5/catalog_of_my_things/issues/28) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
+5. ❗️ Opened issue [#27](https://github.com/netman5/catalog_of_my_things/issues/27) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
 <!--END_SECTION:activity-->
 
 <br>
