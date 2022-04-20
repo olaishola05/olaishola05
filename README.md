@@ -47,6 +47,7 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 [![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=netman5&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=netman5.netman5)
 ---
 
 ### Most used Languages
