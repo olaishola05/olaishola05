@@ -11,6 +11,7 @@ A Full time student at Microverse, learning Full Stack Web Development.
 - 🥅 2022 Goals: Contribute more to Open Source projects && get full time role in software development
 - 💬 Ask me about anything
 - 📫 Reach me here: olaishola@hotmail.co.uk
+- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=netman5.netman5) 
 
 ---
 
@@ -50,7 +51,10 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 [![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=netman5&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=netman5.netman5)
+<!--START_SECTION:waka-->
+## 👨‍👨‍👦‍👦 Visitor count
+<img src="https://profile-counter.glitch.me/netman5/count.svg" />
+<!--END_SECTION:waka-->
 ---
 
 ### Most used Languages
