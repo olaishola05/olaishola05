@@ -51,11 +51,12 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 [![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=netman5&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 <!--START_SECTION:waka-->
 ## 👨‍👨‍👦‍👦 Visitor count
 <img src="https://profile-counter.glitch.me/netman5/count.svg" />
 <!--END_SECTION:waka-->
----
 
 ### Most used Languages
 
