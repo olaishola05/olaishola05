@@ -68,11 +68,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#38](https://github.com/netman5/catalog_of_my_things/pull/38) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
-2. 💪 Opened PR [#35](https://github.com/netman5/catalog_of_my_things/pull/35) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
-3. 🎉 Merged PR [#34](https://github.com/netman5/catalog_of_my_things/pull/34) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
-4. 💪 Opened PR [#31](https://github.com/netman5/catalog_of_my_things/pull/31) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
-5. 💪 Opened PR [#30](https://github.com/netman5/catalog_of_my_things/pull/30) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
+1. 🎉 Merged PR [#38](https://github.com/netman5/catalog_of_my_things/pull/38) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
+2. 🗣 Commented on [#38](https://github.com/netman5/catalog_of_my_things/issues/38) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
+3. 💪 Opened PR [#38](https://github.com/netman5/catalog_of_my_things/pull/38) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
+4. 💪 Opened PR [#35](https://github.com/netman5/catalog_of_my_things/pull/35) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
+5. 🎉 Merged PR [#34](https://github.com/netman5/catalog_of_my_things/pull/34) in [netman5/catalog_of_my_things](https://github.com/netman5/catalog_of_my_things)
 <!--END_SECTION:activity-->
 
 <br>
