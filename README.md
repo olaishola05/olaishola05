@@ -68,11 +68,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6](https://github.com/netman5/blog/pull/6) in [netman5/blog](https://github.com/netman5/blog)
-2. 🎉 Merged PR [#5](https://github.com/netman5/blog/pull/5) in [netman5/blog](https://github.com/netman5/blog)
-3. 💪 Opened PR [#2](https://github.com/AdornChoga/hello-rails-app/pull/2) in [AdornChoga/hello-rails-app](https://github.com/AdornChoga/hello-rails-app)
-4. 💪 Opened PR [#5](https://github.com/netman5/blog/pull/5) in [netman5/blog](https://github.com/netman5/blog)
-5. 🎉 Merged PR [#4](https://github.com/netman5/blog/pull/4) in [netman5/blog](https://github.com/netman5/blog)
+1. 💪 Opened PR [#7](https://github.com/netman5/blog/pull/7) in [netman5/blog](https://github.com/netman5/blog)
+2. 🎉 Merged PR [#6](https://github.com/netman5/blog/pull/6) in [netman5/blog](https://github.com/netman5/blog)
+3. 💪 Opened PR [#6](https://github.com/netman5/blog/pull/6) in [netman5/blog](https://github.com/netman5/blog)
+4. 🎉 Merged PR [#5](https://github.com/netman5/blog/pull/5) in [netman5/blog](https://github.com/netman5/blog)
+5. 💪 Opened PR [#2](https://github.com/AdornChoga/hello-rails-app/pull/2) in [AdornChoga/hello-rails-app](https://github.com/AdornChoga/hello-rails-app)
 <!--END_SECTION:activity-->
 
 <br>
