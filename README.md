@@ -68,11 +68,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/netman5/blog/pull/9) in [netman5/blog](https://github.com/netman5/blog)
-2. 💪 Opened PR [#9](https://github.com/netman5/blog/pull/9) in [netman5/blog](https://github.com/netman5/blog)
-3. 🎉 Merged PR [#8](https://github.com/netman5/blog/pull/8) in [netman5/blog](https://github.com/netman5/blog)
-4. 🗣 Commented on [#8](https://github.com/netman5/blog/issues/8) in [netman5/blog](https://github.com/netman5/blog)
-5. 💪 Opened PR [#8](https://github.com/netman5/blog/pull/8) in [netman5/blog](https://github.com/netman5/blog)
+1. 💪 Opened PR [#10](https://github.com/netman5/blog/pull/10) in [netman5/blog](https://github.com/netman5/blog)
+2. 🎉 Merged PR [#9](https://github.com/netman5/blog/pull/9) in [netman5/blog](https://github.com/netman5/blog)
+3. 💪 Opened PR [#9](https://github.com/netman5/blog/pull/9) in [netman5/blog](https://github.com/netman5/blog)
+4. 🎉 Merged PR [#8](https://github.com/netman5/blog/pull/8) in [netman5/blog](https://github.com/netman5/blog)
+5. 🗣 Commented on [#8](https://github.com/netman5/blog/issues/8) in [netman5/blog](https://github.com/netman5/blog)
 <!--END_SECTION:activity-->
 
 <br>
