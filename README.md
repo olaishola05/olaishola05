@@ -68,11 +68,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#15](https://github.com/AkshithaReddy1899/rails-group-project/pull/15) in [AkshithaReddy1899/rails-group-project](https://github.com/AkshithaReddy1899/rails-group-project)
-2. 💪 Opened PR [#13](https://github.com/AkshithaReddy1899/rails-group-project/pull/13) in [AkshithaReddy1899/rails-group-project](https://github.com/AkshithaReddy1899/rails-group-project)
-3. 🎉 Merged PR [#11](https://github.com/netman5/blog/pull/11) in [netman5/blog](https://github.com/netman5/blog)
-4. 💪 Opened PR [#11](https://github.com/netman5/blog/pull/11) in [netman5/blog](https://github.com/netman5/blog)
-5. 🎉 Merged PR [#10](https://github.com/netman5/blog/pull/10) in [netman5/blog](https://github.com/netman5/blog)
+1. 🎉 Merged PR [#17](https://github.com/AkshithaReddy1899/rails-group-project/pull/17) in [AkshithaReddy1899/rails-group-project](https://github.com/AkshithaReddy1899/rails-group-project)
+2. 💪 Opened PR [#15](https://github.com/AkshithaReddy1899/rails-group-project/pull/15) in [AkshithaReddy1899/rails-group-project](https://github.com/AkshithaReddy1899/rails-group-project)
+3. 💪 Opened PR [#13](https://github.com/AkshithaReddy1899/rails-group-project/pull/13) in [AkshithaReddy1899/rails-group-project](https://github.com/AkshithaReddy1899/rails-group-project)
+4. 🎉 Merged PR [#11](https://github.com/netman5/blog/pull/11) in [netman5/blog](https://github.com/netman5/blog)
+5. 💪 Opened PR [#11](https://github.com/netman5/blog/pull/11) in [netman5/blog](https://github.com/netman5/blog)
 <!--END_SECTION:activity-->
 
 <br>
