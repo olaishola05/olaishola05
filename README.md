@@ -68,11 +68,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#19](https://github.com/AkshithaReddy1899/rails-group-project/pull/19) in [AkshithaReddy1899/rails-group-project](https://github.com/AkshithaReddy1899/rails-group-project)
-2. 🎉 Merged PR [#18](https://github.com/AkshithaReddy1899/rails-group-project/pull/18) in [AkshithaReddy1899/rails-group-project](https://github.com/AkshithaReddy1899/rails-group-project)
-3. 🎉 Merged PR [#17](https://github.com/AkshithaReddy1899/rails-group-project/pull/17) in [AkshithaReddy1899/rails-group-project](https://github.com/AkshithaReddy1899/rails-group-project)
-4. 💪 Opened PR [#15](https://github.com/AkshithaReddy1899/rails-group-project/pull/15) in [AkshithaReddy1899/rails-group-project](https://github.com/AkshithaReddy1899/rails-group-project)
-5. 💪 Opened PR [#13](https://github.com/AkshithaReddy1899/rails-group-project/pull/13) in [AkshithaReddy1899/rails-group-project](https://github.com/AkshithaReddy1899/rails-group-project)
+1. 🎉 Merged PR [#2](https://github.com/netman5/budget-app/pull/2) in [netman5/budget-app](https://github.com/netman5/budget-app)
+2. 💪 Opened PR [#2](https://github.com/netman5/budget-app/pull/2) in [netman5/budget-app](https://github.com/netman5/budget-app)
+3. 🎉 Merged PR [#1](https://github.com/netman5/budget-app/pull/1) in [netman5/budget-app](https://github.com/netman5/budget-app)
+4. 💪 Opened PR [#1](https://github.com/netman5/budget-app/pull/1) in [netman5/budget-app](https://github.com/netman5/budget-app)
+5. 💪 Opened PR [#19](https://github.com/AkshithaReddy1899/rails-group-project/pull/19) in [AkshithaReddy1899/rails-group-project](https://github.com/AkshithaReddy1899/rails-group-project)
 <!--END_SECTION:activity-->
 
 <br>
