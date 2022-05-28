@@ -68,11 +68,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6](https://github.com/netman5/budget-app/pull/6) in [netman5/budget-app](https://github.com/netman5/budget-app)
-2. 🎉 Merged PR [#5](https://github.com/netman5/budget-app/pull/5) in [netman5/budget-app](https://github.com/netman5/budget-app)
-3. 💪 Opened PR [#5](https://github.com/netman5/budget-app/pull/5) in [netman5/budget-app](https://github.com/netman5/budget-app)
-4. 🎉 Merged PR [#4](https://github.com/netman5/budget-app/pull/4) in [netman5/budget-app](https://github.com/netman5/budget-app)
-5. 💪 Opened PR [#4](https://github.com/netman5/budget-app/pull/4) in [netman5/budget-app](https://github.com/netman5/budget-app)
+1. 🎉 Merged PR [#6](https://github.com/netman5/budget-app/pull/6) in [netman5/budget-app](https://github.com/netman5/budget-app)
+2. 🗣 Commented on [#6](https://github.com/netman5/budget-app/issues/6) in [netman5/budget-app](https://github.com/netman5/budget-app)
+3. 💪 Opened PR [#6](https://github.com/netman5/budget-app/pull/6) in [netman5/budget-app](https://github.com/netman5/budget-app)
+4. 🎉 Merged PR [#5](https://github.com/netman5/budget-app/pull/5) in [netman5/budget-app](https://github.com/netman5/budget-app)
+5. 💪 Opened PR [#5](https://github.com/netman5/budget-app/pull/5) in [netman5/budget-app](https://github.com/netman5/budget-app)
 <!--END_SECTION:activity-->
 
 <br>
