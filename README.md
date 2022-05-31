@@ -68,11 +68,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/netman5/hello-rails-react/pull/1) in [netman5/hello-rails-react](https://github.com/netman5/hello-rails-react)
-2. 💪 Opened PR [#1](https://github.com/netman5/hello-rails-react/pull/1) in [netman5/hello-rails-react](https://github.com/netman5/hello-rails-react)
-3. 🎉 Merged PR [#19](https://github.com/netman5/netman5.github.io/pull/19) in [netman5/netman5.github.io](https://github.com/netman5/netman5.github.io)
-4. 💪 Opened PR [#19](https://github.com/netman5/netman5.github.io/pull/19) in [netman5/netman5.github.io](https://github.com/netman5/netman5.github.io)
-5. 🎉 Merged PR [#6](https://github.com/netman5/budget-app/pull/6) in [netman5/budget-app](https://github.com/netman5/budget-app)
+1. 🎉 Merged PR [#2](https://github.com/netman5/hello-rails-react/pull/2) in [netman5/hello-rails-react](https://github.com/netman5/hello-rails-react)
+2. 💪 Opened PR [#2](https://github.com/netman5/hello-rails-react/pull/2) in [netman5/hello-rails-react](https://github.com/netman5/hello-rails-react)
+3. 🎉 Merged PR [#1](https://github.com/netman5/hello-rails-react/pull/1) in [netman5/hello-rails-react](https://github.com/netman5/hello-rails-react)
+4. 💪 Opened PR [#1](https://github.com/netman5/hello-rails-react/pull/1) in [netman5/hello-rails-react](https://github.com/netman5/hello-rails-react)
+5. 🎉 Merged PR [#19](https://github.com/netman5/netman5.github.io/pull/19) in [netman5/netman5.github.io](https://github.com/netman5/netman5.github.io)
 <!--END_SECTION:activity-->
 
 <br>
