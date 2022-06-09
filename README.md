@@ -68,11 +68,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/netman5/hello-react-front-end/pull/1) in [netman5/hello-react-front-end](https://github.com/netman5/hello-react-front-end)
-2. 🎉 Merged PR [#3](https://github.com/netman5/hello-rails-back-end/pull/3) in [netman5/hello-rails-back-end](https://github.com/netman5/hello-rails-back-end)
-3. 🗣 Commented on [#3](https://github.com/netman5/hello-rails-back-end/issues/3) in [netman5/hello-rails-back-end](https://github.com/netman5/hello-rails-back-end)
-4. 💪 Opened PR [#3](https://github.com/netman5/hello-rails-back-end/pull/3) in [netman5/hello-rails-back-end](https://github.com/netman5/hello-rails-back-end)
-5. 🎉 Merged PR [#2](https://github.com/netman5/hello-rails-back-end/pull/2) in [netman5/hello-rails-back-end](https://github.com/netman5/hello-rails-back-end)
+1. 💪 Opened PR [#4](https://github.com/netman5/Rent-a-car-FE/pull/4) in [netman5/Rent-a-car-FE](https://github.com/netman5/Rent-a-car-FE)
+2. 🎉 Merged PR [#1](https://github.com/netman5/hello-react-front-end/pull/1) in [netman5/hello-react-front-end](https://github.com/netman5/hello-react-front-end)
+3. 🎉 Merged PR [#3](https://github.com/netman5/hello-rails-back-end/pull/3) in [netman5/hello-rails-back-end](https://github.com/netman5/hello-rails-back-end)
+4. 🗣 Commented on [#3](https://github.com/netman5/hello-rails-back-end/issues/3) in [netman5/hello-rails-back-end](https://github.com/netman5/hello-rails-back-end)
+5. 💪 Opened PR [#3](https://github.com/netman5/hello-rails-back-end/pull/3) in [netman5/hello-rails-back-end](https://github.com/netman5/hello-rails-back-end)
 <!--END_SECTION:activity-->
 
 <br>
