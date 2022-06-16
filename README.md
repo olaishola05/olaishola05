@@ -68,11 +68,11 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#12](https://github.com/netman5/Rent-a-car-FE/pull/12) in [netman5/Rent-a-car-FE](https://github.com/netman5/Rent-a-car-FE)
-2. 🎉 Merged PR [#7](https://github.com/netman5/Rent-a-car-FE/pull/7) in [netman5/Rent-a-car-FE](https://github.com/netman5/Rent-a-car-FE)
-3. 🎉 Merged PR [#9](https://github.com/netman5/Rent-a-car-FE/pull/9) in [netman5/Rent-a-car-FE](https://github.com/netman5/Rent-a-car-FE)
-4. 💪 Opened PR [#9](https://github.com/netman5/Rent-a-car-FE/pull/9) in [netman5/Rent-a-car-FE](https://github.com/netman5/Rent-a-car-FE)
-5. 💪 Opened PR [#22](https://github.com/brytebee/Rent-a-car/pull/22) in [brytebee/Rent-a-car](https://github.com/brytebee/Rent-a-car)
+1. 🎉 Merged PR [#13](https://github.com/netman5/Rent-a-car-FE/pull/13) in [netman5/Rent-a-car-FE](https://github.com/netman5/Rent-a-car-FE)
+2. 🎉 Merged PR [#12](https://github.com/netman5/Rent-a-car-FE/pull/12) in [netman5/Rent-a-car-FE](https://github.com/netman5/Rent-a-car-FE)
+3. 🎉 Merged PR [#7](https://github.com/netman5/Rent-a-car-FE/pull/7) in [netman5/Rent-a-car-FE](https://github.com/netman5/Rent-a-car-FE)
+4. 🎉 Merged PR [#9](https://github.com/netman5/Rent-a-car-FE/pull/9) in [netman5/Rent-a-car-FE](https://github.com/netman5/Rent-a-car-FE)
+5. 💪 Opened PR [#9](https://github.com/netman5/Rent-a-car-FE/pull/9) in [netman5/Rent-a-car-FE](https://github.com/netman5/Rent-a-car-FE)
 <!--END_SECTION:activity-->
 
 <br>
