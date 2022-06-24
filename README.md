@@ -1,4 +1,4 @@
-### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Ola Ishola!
+### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I am Ola Ishola!
 
 ![hell](./animae/Grand%20Re-opening%20Sale.gif)
 
@@ -11,6 +11,7 @@ A FullStack Developer with experience in building bespoke enterprise application
 - 🥅 2022 Goals: Contribute more to Open Source projects && get full time role in software development
 - 💬 Ask me about anything
 - 📫 Reach me here: olaishola@hotmail.co.uk
+
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=netman5.netman5) 
 
 ---
@@ -77,10 +78,10 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=To-do&show_owner=netman5)](https://github.com/netman5/To-do)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=To-do&show_owner=netman5)](https://github.com/netman5/To-do)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=book-collection&show_owner=netman5)](https://github.com/netman5/book-collection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=capstone&show_owner=netman5)](https://github.com/netman5/capstone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=netman5.github.io&show_owner=netman5)](https://github.com/netman5/netman5.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=netman5.github.io&show_owner=netman5)](https://github.com/netman5/netman5.github.io) -->
 
 <p>You can check out my portfolio <a href="https://netman5.github.io/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
