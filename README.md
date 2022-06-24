@@ -2,16 +2,16 @@
 
 ![hell](./animae/Grand%20Re-opening%20Sale.gif)
 
-A Full time student at Microverse, learning Full Stack Web Development.
+A FullStack Developer with experience in building bespoke enterprise application that scales.
 
 - 🌱 I’m currently working on improving my crafts in Web Development
 - 👯 I’m looking to collaborate with other content creators
-- Life student of JavaScript
-- 😄 Pronouns: He/Him
+- 👨‍🎓 Life student of JavaScript
+- 💇‍♂️ Pronouns: He/Him
 - 🥅 2022 Goals: Contribute more to Open Source projects && get full time role in software development
 - 💬 Ask me about anything
 - 📫 Reach me here: olaishola@hotmail.co.uk
-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=netman5.netman5) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=netman5.netman5) 
 
 ---
 
