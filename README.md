@@ -69,11 +69,11 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/netman5/new-portfolio/pull/5) in [netman5/new-portfolio](https://github.com/netman5/new-portfolio)
-2. 💪 Opened PR [#5](https://github.com/netman5/new-portfolio/pull/5) in [netman5/new-portfolio](https://github.com/netman5/new-portfolio)
-3. 🎉 Merged PR [#4](https://github.com/netman5/new-portfolio/pull/4) in [netman5/new-portfolio](https://github.com/netman5/new-portfolio)
-4. 💪 Opened PR [#4](https://github.com/netman5/new-portfolio/pull/4) in [netman5/new-portfolio](https://github.com/netman5/new-portfolio)
-5. 🎉 Merged PR [#3](https://github.com/netman5/new-portfolio/pull/3) in [netman5/new-portfolio](https://github.com/netman5/new-portfolio)
+1. 🎉 Merged PR [#21](https://github.com/netman5/netman5.github.io/pull/21) in [netman5/netman5.github.io](https://github.com/netman5/netman5.github.io)
+2. 💪 Opened PR [#21](https://github.com/netman5/netman5.github.io/pull/21) in [netman5/netman5.github.io](https://github.com/netman5/netman5.github.io)
+3. 🎉 Merged PR [#5](https://github.com/netman5/new-portfolio/pull/5) in [netman5/new-portfolio](https://github.com/netman5/new-portfolio)
+4. 💪 Opened PR [#5](https://github.com/netman5/new-portfolio/pull/5) in [netman5/new-portfolio](https://github.com/netman5/new-portfolio)
+5. 🎉 Merged PR [#4](https://github.com/netman5/new-portfolio/pull/4) in [netman5/new-portfolio](https://github.com/netman5/new-portfolio)
 <!--END_SECTION:activity-->
 
 <br>
