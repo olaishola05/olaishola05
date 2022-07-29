@@ -4,7 +4,7 @@
 
 A FullStack Developer with experience in building bespoke enterprise application that scales.
 
-- 🌱 I’m currently working on improving my crafts in Web Development
+- 🌱 A graduate of Microverse Full Stack Web Development with over 1yr remote work experience
 - 👯 I’m looking to collaborate with other content creators
 - 👨‍🎓 Life student of JavaScript
 - 💇‍♂️ Pronouns: He/Him
@@ -43,6 +43,8 @@ A FullStack Developer with experience in building bespoke enterprise application
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
+<img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"/>
+<img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
 <br>
 <br>
 
