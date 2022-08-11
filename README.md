@@ -71,11 +71,11 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/netman5/vigo-app/pull/2) in [netman5/vigo-app](https://github.com/netman5/vigo-app)
-2. 💪 Opened PR [#2](https://github.com/netman5/vigo-app/pull/2) in [netman5/vigo-app](https://github.com/netman5/vigo-app)
-3. 🎉 Merged PR [#1](https://github.com/netman5/vigo-app/pull/1) in [netman5/vigo-app](https://github.com/netman5/vigo-app)
-4. 💪 Opened PR [#1](https://github.com/netman5/vigo-app/pull/1) in [netman5/vigo-app](https://github.com/netman5/vigo-app)
-5. 🎉 Merged PR [#7](https://github.com/netman5/new-portfolio/pull/7) in [netman5/new-portfolio](https://github.com/netman5/new-portfolio)
+1. 🎉 Merged PR [#3](https://github.com/netman5/vigo-app/pull/3) in [netman5/vigo-app](https://github.com/netman5/vigo-app)
+2. 💪 Opened PR [#3](https://github.com/netman5/vigo-app/pull/3) in [netman5/vigo-app](https://github.com/netman5/vigo-app)
+3. 🎉 Merged PR [#2](https://github.com/netman5/vigo-app/pull/2) in [netman5/vigo-app](https://github.com/netman5/vigo-app)
+4. 💪 Opened PR [#2](https://github.com/netman5/vigo-app/pull/2) in [netman5/vigo-app](https://github.com/netman5/vigo-app)
+5. 🎉 Merged PR [#1](https://github.com/netman5/vigo-app/pull/1) in [netman5/vigo-app](https://github.com/netman5/vigo-app)
 <!--END_SECTION:activity-->
 
 <br>
