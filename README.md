@@ -71,11 +71,11 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/netman5/parivest-dashboard/pull/1) in [netman5/parivest-dashboard](https://github.com/netman5/parivest-dashboard)
-2. 💪 Opened PR [#1](https://github.com/netman5/parivest-dashboard/pull/1) in [netman5/parivest-dashboard](https://github.com/netman5/parivest-dashboard)
-3. 🎉 Merged PR [#4](https://github.com/netman5/vigoapp-FE/pull/4) in [netman5/vigoapp-FE](https://github.com/netman5/vigoapp-FE)
-4. 💪 Opened PR [#4](https://github.com/netman5/vigoapp-FE/pull/4) in [netman5/vigoapp-FE](https://github.com/netman5/vigoapp-FE)
-5. 🎉 Merged PR [#3](https://github.com/netman5/vigoapp-FE/pull/3) in [netman5/vigoapp-FE](https://github.com/netman5/vigoapp-FE)
+1. ❗️ Opened issue [#1](https://github.com/netman5/Boldo-UI/issues/1) in [netman5/Boldo-UI](https://github.com/netman5/Boldo-UI)
+2. 🎉 Merged PR [#1](https://github.com/netman5/parivest-dashboard/pull/1) in [netman5/parivest-dashboard](https://github.com/netman5/parivest-dashboard)
+3. 💪 Opened PR [#1](https://github.com/netman5/parivest-dashboard/pull/1) in [netman5/parivest-dashboard](https://github.com/netman5/parivest-dashboard)
+4. 🎉 Merged PR [#4](https://github.com/netman5/vigoapp-FE/pull/4) in [netman5/vigoapp-FE](https://github.com/netman5/vigoapp-FE)
+5. 💪 Opened PR [#4](https://github.com/netman5/vigoapp-FE/pull/4) in [netman5/vigoapp-FE](https://github.com/netman5/vigoapp-FE)
 <!--END_SECTION:activity-->
 
 <br>
