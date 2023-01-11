@@ -8,7 +8,7 @@ A FullStack Developer with experience in building bespoke enterprise application
 - 👯 I’m looking to collaborate with other content creators
 - 👨‍🎓 Life student of JavaScript
 - 💇‍♂️ Pronouns: He/Him
-- 🥅 2022 Goals: Contribute more to Open Source projects && get full time role in software development
+- 🥅 2023 Goals: Contribute more to Open Source projects, be active in the community && Co-found something 
 - 💬 Ask me about anything
 - 📫 Reach me here: olaishola@hotmail.co.uk
 
@@ -79,11 +79,6 @@ A FullStack Developer with experience in building bespoke enterprise application
 <!--END_SECTION:activity-->
 
 <br>
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=To-do&show_owner=netman5)](https://github.com/netman5/To-do)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=book-collection&show_owner=netman5)](https://github.com/netman5/book-collection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=capstone&show_owner=netman5)](https://github.com/netman5/capstone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=netman5.github.io&show_owner=netman5)](https://github.com/netman5/netman5.github.io) -->
 
 <p>You can check out my portfolio <a href="https://netman5.github.io/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
