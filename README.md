@@ -71,11 +71,11 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/netman5/Coral/pull/1) in [netman5/Coral](https://github.com/netman5/Coral)
-2. 💪 Opened PR [#1](https://github.com/netman5/Coral/pull/1) in [netman5/Coral](https://github.com/netman5/Coral)
-3. 🎉 Merged PR [#2](https://github.com/netman5/QR-Code-Generator/pull/2) in [netman5/QR-Code-Generator](https://github.com/netman5/QR-Code-Generator)
-4. 💪 Opened PR [#2](https://github.com/netman5/QR-Code-Generator/pull/2) in [netman5/QR-Code-Generator](https://github.com/netman5/QR-Code-Generator)
-5. 🎉 Merged PR [#1](https://github.com/netman5/QR-Code-Generator/pull/1) in [netman5/QR-Code-Generator](https://github.com/netman5/QR-Code-Generator)
+1. 🎉 Merged PR [#2](https://github.com/netman5/Coral/pull/2) in [netman5/Coral](https://github.com/netman5/Coral)
+2. 💪 Opened PR [#2](https://github.com/netman5/Coral/pull/2) in [netman5/Coral](https://github.com/netman5/Coral)
+3. 🎉 Merged PR [#1](https://github.com/netman5/Coral/pull/1) in [netman5/Coral](https://github.com/netman5/Coral)
+4. 💪 Opened PR [#1](https://github.com/netman5/Coral/pull/1) in [netman5/Coral](https://github.com/netman5/Coral)
+5. 🎉 Merged PR [#2](https://github.com/netman5/QR-Code-Generator/pull/2) in [netman5/QR-Code-Generator](https://github.com/netman5/QR-Code-Generator)
 <!--END_SECTION:activity-->
 
 <br>
