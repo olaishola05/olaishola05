@@ -63,7 +63,7 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 ### Most used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netman5&hide=ejsPLpgSQLC++shell&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netman5&hide=ejs&PLpgSQL&C++&shell&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
