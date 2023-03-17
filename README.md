@@ -12,7 +12,9 @@ A FullStack Developer with experience in building bespoke enterprise application
 - 💬 Ask me about anything
 - 📫 Reach me here: olaishola@hotmail.co.uk
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=netman5.netman5) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=netman5.netman5)
+
+![](https://komarev.com/ghpvc/?username=netman5&style=for-the-badge)
 
 ---
 
@@ -59,7 +61,6 @@ A FullStack Developer with experience in building bespoke enterprise application
 <!--START_SECTION:waka-->
 ## 👨‍👨‍👦‍👦 Visitor count
 <img src="https://profile-counter.glitch.me/netman5/count.svg" />
-![](https://komarev.com/ghpvc/?username=netman5)
 <!--END_SECTION:waka-->
 
 ### Most used Languages
