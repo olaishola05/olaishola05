@@ -65,7 +65,7 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netman5&hide=ejs&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=netman5&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=netman5&layout=compact&langs_count=10&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
 ---
 
