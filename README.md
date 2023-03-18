@@ -1,6 +1,7 @@
 ### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I am Ola Ishola!
 
-![hell](./animae/Grand%20Re-opening%20Sale.gif)
+![geek](https://user-images.githubusercontent.com/45001916/226130038-110c631c-8bf8-4f55-9b62-95ab1159f51e.gif)
+
 
 A FullStack Developer with experience in building bespoke enterprise application that scales.
 
