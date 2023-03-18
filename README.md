@@ -48,27 +48,21 @@ A FullStack Developer with experience in building bespoke enterprise application
 <br>
 <br>
 
-### My GitHub Stats
+### My GitHub Stats & Most used Languages
 
----
 
-[![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=netman5&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=netman5&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
----
 
----
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=netman5&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Ola Ishola" /></p>
----
+
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netman5&hide=ejs,PLpgSQL,C++,shell&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <!--START_SECTION:waka-->
 ## 👨‍👨‍👦‍👦 Visitor count
 <img src="https://profile-counter.glitch.me/netman5/count.svg" />
 <!--END_SECTION:waka-->
-
-### Most used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netman5&hide=ejs,PLpgSQL,C++,shell&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
