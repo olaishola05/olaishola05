@@ -1,4 +1,5 @@
-### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I am Ola Ishola!
+### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Ola!%2C+a+FullStack+Developer.)](https://git.io/typing-svg)
 
 ![geek](https://user-images.githubusercontent.com/45001916/226130038-110c631c-8bf8-4f55-9b62-95ab1159f51e.gif)
 
