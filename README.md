@@ -73,10 +73,10 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/netman5/Coral/pull/5) in [netman5/Coral](https://github.com/netman5/Coral)
-2. 💪 Opened PR [#5](https://github.com/netman5/Coral/pull/5) in [netman5/Coral](https://github.com/netman5/Coral)
-3. 🎉 Merged PR [#4](https://github.com/netman5/Coral/pull/4) in [netman5/Coral](https://github.com/netman5/Coral)
-4. 💪 Opened PR [#4](https://github.com/netman5/Coral/pull/4) in [netman5/Coral](https://github.com/netman5/Coral)
+1. 🎉 Merged PR [#1](https://github.com/netman5/ola/pull/1) in [netman5/ola](https://github.com/netman5/ola)
+2. 💪 Opened PR [#1](https://github.com/netman5/ola/pull/1) in [netman5/ola](https://github.com/netman5/ola)
+3. 🎉 Merged PR [#5](https://github.com/netman5/Coral/pull/5) in [netman5/Coral](https://github.com/netman5/Coral)
+4. 💪 Opened PR [#5](https://github.com/netman5/Coral/pull/5) in [netman5/Coral](https://github.com/netman5/Coral)
 5. 🎉 Merged PR [#3](https://github.com/netman5/Coral/pull/3) in [netman5/Coral](https://github.com/netman5/Coral)
 <!--END_SECTION:activity-->
 
