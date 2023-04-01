@@ -46,15 +46,8 @@ A FullStack Developer with experience in building bespoke enterprise application
 <a href="https://twitter.com/orlaish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orlaish" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ola-ishola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ola-ishola/" height="30" width="40" /></a>
 <a href="https://medium.com/@olaishola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@olaishola" height="30" width="40" /></a>
-
 <a href="https://instagram.com/xcodre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xcodre" height="30" width="40" /></a>
 </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<br>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -79,8 +72,6 @@ A FullStack Developer with experience in building bespoke enterprise application
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=netman5&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Ola Ishola" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netman5&hide=ejs,PLpgSQL,C++,shell&langs_count=10&layout=compact&theme=vue"</p> -->
-
-<br>
 
 <h3 align="left">GitHub Stats</h3>
 
