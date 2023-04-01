@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=netman5" alt="netman5" /></a> </p>
 
 
-  ![geek](https://user-images.githubusercontent.com/45001916/226130038-110c631c-8bf8-4f55-9b62-95ab1159f51e.gif)
+![geek](https://user-images.githubusercontent.com/45001916/226130038-110c631c-8bf8-4f55-9b62-95ab1159f51e.gif)
 
 <p align="left"> <a href="https://twitter.com/orlaish" target="blank"><img src="https://img.shields.io/twitter/follow/orlaish?logo=twitter&style=for-the-badge" alt="orlaish" /></a> </p>
 
