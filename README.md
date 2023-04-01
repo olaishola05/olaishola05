@@ -41,6 +41,11 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling events in JavaScript: A beginner’s guide to modifying the DOM](https://olaishola.medium.com/handling-events-in-javascript-a-beginners-guide-to-modifying-the-dom-d7ea1485ae98?source=rss-e2bad2597147------2)
+- [JavaScript data types and type coercion: What you need to know as a beginner](https://olaishola.medium.com/javascript-data-types-and-type-coercion-what-you-need-to-know-as-a-beginner-9d379df1ca3c?source=rss-e2bad2597147------2)
+- [Understanding JavaScript scope: Global vs. function scope](https://olaishola.medium.com/understanding-javascript-scope-global-vs-function-scope-8f19cf107b25?source=rss-e2bad2597147------2)
+- [Asynchronous programming in JavaScript: A beginner’s guide](https://olaishola.medium.com/asynchronous-programming-in-javascript-a-beginners-guide-e3e01dc919ff?source=rss-e2bad2597147------2)
+- [Git Essentials: Everything You Need to Know to Get Started](https://olaishola.medium.com/git-essentials-everything-you-need-to-know-to-get-started-11afce927e94?source=rss-e2bad2597147------2)
 <!-- BLOG-POST-LIST:END -->
 
 
