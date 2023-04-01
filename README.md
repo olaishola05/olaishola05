@@ -1,7 +1,7 @@
 <!-- ### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">  -->
 
 <h1 align="center">Hi 👋</h1>
-<!-- <h3 align="center">A Full Stack Developer</h3> -->
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Ola+Ishola!%2C+a+Full+Stack+Developer.)](https://git.io/typing-svg)
 
@@ -21,23 +21,35 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 - 👯 I’m looking to collaborate on **Open sources projects**
 
-- 🤝 I’m looking for help with **becoming a DevOps Engineer**
+- 🤝 I’m looking for help & mentorship with **becoming a DevOps Engineer**
 
-- 👨‍💻 All of my projects are available at [https://netman5.github.io/](https://netman5.github.io/)
+- 👨‍💻 All of my projects are available [here](https://netman5.github.io/)
 
-- 📝 I regularly write articles on [https://olaishola.medium.com/](https://olaishola.medium.com/)
+- 📝 I regularly write articles on [Medium](https://olaishola.medium.com/)
 
 - 💬 Ask me about **React, NextJS, Docker, Web Development, Node**
 
 - 📫 How to reach me **olaishola@hotmail.co.uk**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/11o8PiZv4zIQlrmwYIuMhQLr05-GTl5IlsVPSbkGacFU/edit?usp=sharing](https://docs.google.com/document/d/11o8PiZv4zIQlrmwYIuMhQLr05-GTl5IlsVPSbkGacFU/edit?usp=sharing)
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/11o8PiZv4zIQlrmwYIuMhQLr05-GTl5IlsVPSbkGacFU/edit?usp=sharing)
 
 - 💇‍♂️ Pronouns: He/Him
 - 🥅 2023 Goals: Contribute more to Open Source projects, be active in the community && Co-found something 
 
 
 ![](https://komarev.com/ghpvc/?username=netman5&style=for-the-badge)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/orlaish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orlaish" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ola-ishola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ola-ishola/" height="30" width="40" /></a>
+<a href="https://medium.com/@olaishola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@olaishola" height="30" width="40" /></a>
+
+<a href="https://instagram.com/xcodre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xcodre" height="30" width="40" /></a>
+</p>
+
+<br>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -48,16 +60,6 @@ A FullStack Developer with experience in building bespoke enterprise application
 - [Git Essentials: Everything You Need to Know to Get Started](https://olaishola.medium.com/git-essentials-everything-you-need-to-know-to-get-started-11afce927e94?source=rss-e2bad2597147------2)
 <!-- BLOG-POST-LIST:END -->
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/orlaish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orlaish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ola-ishola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ola-ishola/" height="30" width="40" /></a>
-<a href="https://medium.com/@olaishola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@olaishola" height="30" width="40" /></a>
-
-[<img align="left" alt="netman5 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-</p>
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -65,13 +67,17 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 <br>
 
-<!-- <h3 align="center">GitHub Stats</h3>
+<!-- 
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=netman5&show_icons=true&theme=merko" alt="Ola Ishola" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=netman5&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Ola Ishola" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netman5&hide=ejs,PLpgSQL,C++,shell&langs_count=10&layout=compact&theme=vue"</p> -->
+
+<br>
+
+<h3 align="left">GitHub Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=netman5&show_icons=true&locale=en&layout=compact" alt="netman5" /></p>
 
