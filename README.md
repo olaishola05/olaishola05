@@ -93,11 +93,11 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8](https://github.com/netman5/ola/pull/8) in [netman5/ola](https://github.com/netman5/ola)
-2. 💪 Opened PR [#8](https://github.com/netman5/ola/pull/8) in [netman5/ola](https://github.com/netman5/ola)
-3. 🎉 Merged PR [#7](https://github.com/netman5/ola/pull/7) in [netman5/ola](https://github.com/netman5/ola)
-4. 💪 Opened PR [#7](https://github.com/netman5/ola/pull/7) in [netman5/ola](https://github.com/netman5/ola)
-5. 🎉 Merged PR [#6](https://github.com/netman5/ola/pull/6) in [netman5/ola](https://github.com/netman5/ola)
+1. 🎉 Merged PR [#9](https://github.com/netman5/ola/pull/9) in [netman5/ola](https://github.com/netman5/ola)
+2. 💪 Opened PR [#9](https://github.com/netman5/ola/pull/9) in [netman5/ola](https://github.com/netman5/ola)
+3. 🎉 Merged PR [#8](https://github.com/netman5/ola/pull/8) in [netman5/ola](https://github.com/netman5/ola)
+4. 💪 Opened PR [#8](https://github.com/netman5/ola/pull/8) in [netman5/ola](https://github.com/netman5/ola)
+5. 🎉 Merged PR [#7](https://github.com/netman5/ola/pull/7) in [netman5/ola](https://github.com/netman5/ola)
 <!--END_SECTION:activity-->
 
 <br>
