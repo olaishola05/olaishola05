@@ -51,11 +51,11 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of React: The Advantages of Creating Custom Components for Your Applications](https://olaishola.medium.com/unlocking-the-power-of-react-the-advantages-of-creating-custom-components-for-your-applications-35ba9b68e014?source=rss-e2bad2597147------2)
 - [Debugging JavaScript code for beginners: Tips and tricks for finding and fixing errors](https://olaishola.medium.com/debugging-javascript-code-for-beginners-tips-and-tricks-for-finding-and-fixing-errors-15f1b04d033c?source=rss-e2bad2597147------2)
 - [Prototypal inheritance in JavaScript: A beginner’s introduction](https://olaishola.medium.com/prototypal-inheritance-in-javascript-a-beginners-introduction-4efd3d3d0e2?source=rss-e2bad2597147------2)
 - [Handling events in JavaScript: A beginner’s guide to modifying the DOM](https://olaishola.medium.com/handling-events-in-javascript-a-beginners-guide-to-modifying-the-dom-d7ea1485ae98?source=rss-e2bad2597147------2)
 - [JavaScript data types and type coercion: What you need to know as a beginner](https://olaishola.medium.com/javascript-data-types-and-type-coercion-what-you-need-to-know-as-a-beginner-9d379df1ca3c?source=rss-e2bad2597147------2)
-- [Understanding JavaScript scope: Global vs. function scope](https://olaishola.medium.com/understanding-javascript-scope-global-vs-function-scope-8f19cf107b25?source=rss-e2bad2597147------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
