@@ -77,9 +77,9 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olaishola05&show_icons=true&locale=en&layout=compact" alt="netman5" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olaishola05&show_icons=true&locale=en" alt="netman5" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olaishola05&show_icons=true&locale=en" alt="olaishola05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=netman5&" alt="netman5" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olaishola05&" alt="olaishola05" /></p>
 
 
 <!--START_SECTION:waka-->
