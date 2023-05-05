@@ -3,14 +3,14 @@
 <h1 align="center">Hi 👋</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Ola+Ishola!%2C+a+Full+Stack+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Ola!%2C+a+Full+Stack+Developer.)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=netman5" alt="netman5" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olaishola05" alt="olaishola05" /></a> </p>
 
 
 ![geek](https://user-images.githubusercontent.com/45001916/226130038-110c631c-8bf8-4f55-9b62-95ab1159f51e.gif)
 
-<p align="left"> <a href="https://twitter.com/orlaish" target="blank"><img src="https://img.shields.io/twitter/follow/orlaish?logo=twitter&style=for-the-badge" alt="orlaish" /></a> </p>
+<p align="left"> <a href="https://twitter.com/orlaish" target="blank"><img src="https://img.shields.io/twitter/follow/olaishola05?logo=twitter&style=for-the-badge" alt="olaishola05" /></a> </p>
 
 A FullStack Developer with experience in building bespoke enterprise application that scales.
 
@@ -24,7 +24,7 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 - 🤝 I’m looking for help & mentorship with **becoming a DevOps Engineer**
 
-- 👨‍💻 All of my projects are available [here](https://netman5.github.io/)
+- 👨‍💻 All of my projects are available [here](https://olaishola05.github.io/)
 
 - 📝 I regularly write articles on [Medium](https://olaishola.medium.com/)
 
@@ -38,12 +38,12 @@ A FullStack Developer with experience in building bespoke enterprise application
 - 🥅 2023 Goals: Contribute more to Open Source projects, be active in the community && Co-found something 
 
 
-![](https://komarev.com/ghpvc/?username=netman5&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=olaishola05&style=for-the-badge)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/orlaish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orlaish" height="30" width="40" /></a>
+<a href="https://twitter.com/olaishola05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olaishola05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ola-ishola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ola-ishola/" height="30" width="40" /></a>
 <a href="https://medium.com/@olaishola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@olaishola" height="30" width="40" /></a>
 <a href="https://instagram.com/xcodre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xcodre" height="30" width="40" /></a>
@@ -67,24 +67,24 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 <!-- 
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=netman5&show_icons=true&theme=merko" alt="Ola Ishola" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=olaishola05&show_icons=true&theme=merko" alt="Ola Ishola" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=netman5&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Ola Ishola" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=olaishola05&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Oladipupo Ishola" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netman5&hide=ejs,PLpgSQL,C++,shell&langs_count=10&layout=compact&theme=vue"</p> -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaishola05&hide=ejs,PLpgSQL,C++,shell&langs_count=10&layout=compact&theme=vue"</p> -->
 
 <h3 align="left">GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=netman5&show_icons=true&locale=en&layout=compact" alt="netman5" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olaishola05&show_icons=true&locale=en&layout=compact" alt="netman5" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=netman5&show_icons=true&locale=en" alt="netman5" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olaishola05&show_icons=true&locale=en" alt="netman5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=netman5&" alt="netman5" /></p>
 
 
 <!--START_SECTION:waka-->
 ## 👨‍👨‍👦‍👦 Visitor count
-<img src="https://profile-counter.glitch.me/netman5/count.svg" />
+<img src="https://profile-counter.glitch.me/olaishola05/count.svg" />
 <!--END_SECTION:waka-->
 
 ---
@@ -93,20 +93,20 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#10](https://github.com/netman5/ola/pull/10) in [netman5/ola](https://github.com/netman5/ola)
-2. 💪 Opened PR [#10](https://github.com/netman5/ola/pull/10) in [netman5/ola](https://github.com/netman5/ola)
-3. 🎉 Merged PR [#9](https://github.com/netman5/ola/pull/9) in [netman5/ola](https://github.com/netman5/ola)
-4. 💪 Opened PR [#9](https://github.com/netman5/ola/pull/9) in [netman5/ola](https://github.com/netman5/ola)
-5. 🎉 Merged PR [#8](https://github.com/netman5/ola/pull/8) in [netman5/ola](https://github.com/netman5/ola)
+1. 🎉 Merged PR [#10](https://github.com/olaishola05/ola/pull/10) in [netman5/ola](https://github.com/olaishola05/ola)
+2. 💪 Opened PR [#10](https://github.com/olaishola05/ola/pull/10) in [netman5/ola](https://github.com/olaishola05/ola)
+3. 🎉 Merged PR [#9](https://github.com/olaishola05/ola/pull/9) in [netman5/ola](https://github.com/olaishola05/ola)
+4. 💪 Opened PR [#9](https://github.com/olaishola05/ola/pull/9) in [netman5/ola](https://github.com/olaishola05/ola)
+5. 🎉 Merged PR [#8](https://github.com/olaishola05/ola/pull/8) in [netman5/ola](https://github.com/olaishola05/ola)
 <!--END_SECTION:activity-->
 
 <br>
 
-<p>You can check out my portfolio <a href="https://netman5.github.io/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="https://olaishola05.github.io/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
-[website]: https://netman5.github.io/
-[netman5]: https://github.com/netman5
-[twitter]: https://twitter.com/orlaish
+[website]: https://olaishola05.github.io/
+[olaishola05]: https://github.com/olaishola05
+[twitter]: https://twitter.com/olaishola05
 [instagram]: https://instagram.com/xcodre
 [linkedin]: https://linkedin.com/in/ola-ishola
 [polywork]: https://www.polywork.com/olaish
