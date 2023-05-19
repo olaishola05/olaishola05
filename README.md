@@ -80,6 +80,7 @@ A FullStack Developer with experience in building bespoke enterprise application
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olaishola05&show_icons=true&locale=en" alt="olaishola05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olaishola05&" alt="olaishola05" /></p>
+<a href="https://app.daily.dev/olaishola05"><img src="https://api.daily.dev/devcards/3407ff94f62e412fa3b905a54c9be391.png?r=cmi" width="400" alt="Oladipupo Ishola's Dev Card"/></a>
 
 
 <!--START_SECTION:waka-->
