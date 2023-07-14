@@ -94,9 +94,9 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/olaishola05/Coral/pull/6) in [olaishola05/Coral](https://github.com/olaishola05/Coral)
-2. 💪 Opened PR [#6](https://github.com/olaishola05/Coral/pull/6) in [olaishola05/Coral](https://github.com/olaishola05/Coral)
-3. 🎉 Merged PR [#14](https://github.com/olaishola05/ola/pull/14) in [olaishola05/ola](https://github.com/olaishola05/ola)
+1. 💪 Opened PR [#69982](https://github.com/firstcontributions/first-contributions/pull/69982) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. 🎉 Merged PR [#6](https://github.com/olaishola05/Coral/pull/6) in [olaishola05/Coral](https://github.com/olaishola05/Coral)
+3. 💪 Opened PR [#6](https://github.com/olaishola05/Coral/pull/6) in [olaishola05/Coral](https://github.com/olaishola05/Coral)
 4. 💪 Opened PR [#14](https://github.com/olaishola05/ola/pull/14) in [olaishola05/ola](https://github.com/olaishola05/ola)
 5. 🎉 Merged PR [#13](https://github.com/olaishola05/ola/pull/13) in [olaishola05/ola](https://github.com/olaishola05/ola)
 <!--END_SECTION:activity-->
