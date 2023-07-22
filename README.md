@@ -51,11 +51,11 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Form Validation in React with Formik and Yup &lpar;with TypeScript&rpar;](https://olaishola.medium.com/mastering-form-validation-in-react-with-formik-and-yup-with-typescript-9dc4b3885538?source=rss-e2bad2597147------2)
 - [Handling Form Validations in React with React Hook Form and Zod](https://olaishola.medium.com/handling-form-validations-in-react-with-react-hook-form-and-zod-18e070bbdda6?source=rss-e2bad2597147------2)
 - [Unlocking the Power of Custom Hooks in React: A Beginner’s Guide to Building Reusable and Efficient…](https://olaishola.medium.com/unlocking-the-power-of-custom-hooks-in-react-a-beginners-guide-to-building-reusable-and-efficient-b841a9dc3518?source=rss-e2bad2597147------2)
 - [Unlocking the Power of Custom Hooks in React: A Beginner’s Guide to Building Reusable and Efficient…](https://olaishola.medium.com/unlocking-the-power-of-custom-hooks-in-react-a-beginners-guide-to-building-reusable-and-efficient-cf271b09071?source=rss-e2bad2597147------2)
 - [Unlocking the Power of React: The Advantages of Creating Custom Components for Your Applications](https://olaishola.medium.com/unlocking-the-power-of-react-the-advantages-of-creating-custom-components-for-your-applications-35ba9b68e014?source=rss-e2bad2597147------2)
-- [Debugging JavaScript code for beginners: Tips and tricks for finding and fixing errors](https://olaishola.medium.com/debugging-javascript-code-for-beginners-tips-and-tricks-for-finding-and-fixing-errors-15f1b04d033c?source=rss-e2bad2597147------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
