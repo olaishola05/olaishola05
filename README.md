@@ -1,30 +1,29 @@
 <!-- ### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">  -->
 
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Ola!%2C+a+Full+Stack+Developer.)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olaishola05" alt="olaishola05" /></a> </p>
 
+  ![geek](https://user-images.githubusercontent.com/45001916/226130038-110c631c-8bf8-4f55-9b62-95ab1159f51e.gif)
 
-![geek](https://user-images.githubusercontent.com/45001916/226130038-110c631c-8bf8-4f55-9b62-95ab1159f51e.gif)
+<p align="left"> <a href="https://twitter.com/olaishola05" target="blank"><img src="https://img.shields.io/twitter/follow/olaishola05?logo=twitter&style=for-the-badge" alt="olaishola05" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/orlaish" target="blank"><img src="https://img.shields.io/twitter/follow/olaishola05?logo=twitter&style=for-the-badge" alt="olaishola05" /></a> </p>
+A FullStack Developer with experience in building customer-centric enterprise application that scales.
 
-A FullStack Developer with experience in building bespoke enterprise application that scales.
-
-- 🌱 A graduate of Microverse Full Stack Web Development with over 1yr remote work experience
+- 🌱 A graduate of Microverse Full Stack Web Development with over 2yrs remote work experience
 
 - 🔭 I’m currently working on **JobHunter a resume builder and contributing to Juubix a decentralized talent matching platform**
 
-- 🌱 I’m currently learning **Docker, Kubernettes and anything DevOps & getting a job**
+- 🌱 I’m currently learning **Docker, Kubernettes and anything DevOps & Web3**
 
 - 👯 I’m looking to collaborate on **Open sources projects**
 
 - 🤝 I’m looking for help & mentorship with **becoming a DevOps Engineer**
 
-- 👨‍💻 All of my projects are available [here](https://olaishola05.github.io/)
+- 👨‍💻 All of my projects are available [here](https://www.olaishola.tech/)
 
 - 📝 I regularly write articles on [Medium](https://olaishola.medium.com/)
 
@@ -103,9 +102,9 @@ A FullStack Developer with experience in building bespoke enterprise application
 
 <br>
 
-<p>You can check out my portfolio <a href="https://olaishola05.github.io/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="https://www.olaishola.tech/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
-[website]: https://olaishola05.github.io/
+[website]: https://www.olaishola.tech/
 [olaishola05]: https://github.com/olaishola05
 [twitter]: https://twitter.com/olaishola05
 [instagram]: https://instagram.com/xcodre
