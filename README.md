@@ -41,9 +41,9 @@ A FullStack Developer with experience in building customer-centric enterprise ap
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/olaishola05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olaishola05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ola-ishola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ola-ishola/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/olaishola05/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/olaishola05/" height="30" width="40" /></a>
 <a href="https://medium.com/@olaishola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@olaishola" height="30" width="40" /></a>
-<a href="https://instagram.com/xcodre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xcodre" height="30" width="40" /></a>
+<a href="https://instagram.com/olaishola05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xcodre" height="30" width="40" /></a>
 </p>
 
 ### Blogs posts
@@ -72,7 +72,7 @@ A FullStack Developer with experience in building customer-centric enterprise ap
 
 <h3 align="left">GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olaishola05&show_icons=true&locale=en&layout=compact" alt="netman5" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olaishola05&show_icons=true&locale=en&layout=compact" alt="olaishola05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olaishola05&show_icons=true&locale=en" alt="olaishola05" /></p>
 
