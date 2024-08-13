@@ -15,9 +15,9 @@ A FullStack Developer with experience in building customer-centric enterprise ap
 
 - 🌱 A graduate of Microverse Full Stack Web Development with over 2yrs remote work experience
 
-- 🔭 I’m currently working on **JobHunter a resume builder and contributing to Juubix a decentralized talent matching platform**
+- 🔭 I’m currently working on **JobHunter a resume builder and Co-building Techverse Academy**
 
-- 🌱 I’m currently learning **Docker, Kubernettes and anything DevOps & Web3**
+- 🌱 I’m currently learning **Docker, Kubernetes and anything DevOps & Data Engineering**
 
 - 👯 I’m looking to collaborate on **Open sources projects**
 
@@ -31,10 +31,8 @@ A FullStack Developer with experience in building customer-centric enterprise ap
 
 - 📫 How to reach me **olaishola@hotmail.co.uk**
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/11o8PiZv4zIQlrmwYIuMhQLr05-GTl5IlsVPSbkGacFU/edit?usp=sharing)
-
 - 💇‍♂️ Pronouns: He/Him
-- 🥅 2023 Goals: Contribute more to Open Source projects, be active in the community && Co-found something 
+- 🥅 2024 Goals: Contribute more to Open Source projects, be active in the community && Co-found something 
 
 
 ![](https://komarev.com/ghpvc/?username=olaishola05&style=for-the-badge)
