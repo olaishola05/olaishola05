@@ -48,11 +48,11 @@ A FullStack Developer with experience in building customer-centric enterprise ap
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Zod: The Simple and Concise Way to Validate Input Data in Your Backend and Build a Better API with…](https://olaishola.medium.com/zod-the-simple-and-concise-way-to-validate-input-data-in-your-backend-and-build-a-better-api-with-0fc699c69ea0?source=rss-e2bad2597147------2)
 - [Elevate Your React Projects: Reusable Custom Hooks for Form Validation](https://olaishola.medium.com/elevate-your-react-projects-reusable-custom-hooks-for-form-validation-148d1ca2f817?source=rss-e2bad2597147------2)
 - [Beyond the Basics: Building Scalable Forms with Reusable Custom Hooks for React/Next](https://olaishola.medium.com/beyond-the-basics-building-scalable-forms-with-reusable-custom-hooks-for-react-next-355b6263bd05?source=rss-e2bad2597147------2)
 - [Mastering Form Validation in React with Formik and Yup &lpar;with TypeScript&rpar;](https://olaishola.medium.com/mastering-form-validation-in-react-with-formik-and-yup-with-typescript-9dc4b3885538?source=rss-e2bad2597147------2)
 - [Handling Form Validations in React with React Hook Form and Zod](https://olaishola.medium.com/handling-form-validations-in-react-with-react-hook-form-and-zod-18e070bbdda6?source=rss-e2bad2597147------2)
-- [Unlocking the Power of Custom Hooks in React: A Beginner’s Guide to Building Reusable and Efficient…](https://olaishola.medium.com/unlocking-the-power-of-custom-hooks-in-react-a-beginners-guide-to-building-reusable-and-efficient-b841a9dc3518?source=rss-e2bad2597147------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
