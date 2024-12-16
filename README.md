@@ -21,7 +21,7 @@ A FullStack Developer with experience in building customer-centric enterprise ap
 
 - 👯 I’m looking to collaborate on **Open sources projects**
 
-- 🤝 I’m looking for help & mentorship with **becoming a DevOps Engineer**
+- 🤝 I’m looking for help & mentorship with **becoming a Data Engineer**
 
 - 👨‍💻 All of my projects are available [here](https://www.olaishola.tech/)
 
