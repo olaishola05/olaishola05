@@ -91,8 +91,8 @@ A FullStack Developer with experience in building customer-centric enterprise ap
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/olaishola05/ola-new/pull/2) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
-2. 🎉 Merged PR [#1](https://github.com/brytebee/git-demo/pull/1) in [brytebee/git-demo](https://github.com/brytebee/git-demo)
+1. 🎉 Merged PR [#2](https://github.com/olaishola05/ola-new/pull/2) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
+2. 💪 Opened PR [#2](https://github.com/olaishola05/ola-new/pull/2) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
 3. 🎉 Merged PR [#17](https://github.com/olaishola05/ola/pull/17) in [olaishola05/ola](https://github.com/olaishola05/ola)
 4. 💪 Opened PR [#17](https://github.com/olaishola05/ola/pull/17) in [olaishola05/ola](https://github.com/olaishola05/ola)
 5. 🎉 Merged PR [#1](https://github.com/olaishola05/ola-new/pull/1) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
