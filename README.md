@@ -66,10 +66,10 @@ I'm a Software Engineer and Content Creator who currently co-building Techverse 
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/olaishola05/blade-repo/pull/1) in [olaishola05/blade-repo](https://github.com/olaishola05/blade-repo)
-2. 💪 Opened PR [#1](https://github.com/olaishola05/blade-repo/pull/1) in [olaishola05/blade-repo](https://github.com/olaishola05/blade-repo)
-3. 🎉 Merged PR [#17](https://github.com/olaishola05/ola/pull/17) in [olaishola05/ola](https://github.com/olaishola05/ola)
-4. 💪 Opened PR [#17](https://github.com/olaishola05/ola/pull/17) in [olaishola05/ola](https://github.com/olaishola05/ola)
+1. 🎉 Merged PR [#3](https://github.com/olaishola05/ola-new/pull/3) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
+2. 💪 Opened PR [#3](https://github.com/olaishola05/ola-new/pull/3) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
+3. 🎉 Merged PR [#1](https://github.com/olaishola05/blade-repo/pull/1) in [olaishola05/blade-repo](https://github.com/olaishola05/blade-repo)
+4. 💪 Opened PR [#1](https://github.com/olaishola05/blade-repo/pull/1) in [olaishola05/blade-repo](https://github.com/olaishola05/blade-repo)
 5. 🎉 Merged PR [#1](https://github.com/olaishola05/ola-new/pull/1) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
 <!--END_SECTION:activity-->
 
