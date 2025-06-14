@@ -66,11 +66,11 @@ I'm a Software Engineer and Content Creator who currently co-building Techverse 
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/olaishola05/ola-new/pull/5) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
-2. 🎉 Merged PR [#7](https://github.com/olaishola05/Coral/pull/7) in [olaishola05/Coral](https://github.com/olaishola05/Coral)
-3. 💪 Opened PR [#7](https://github.com/olaishola05/Coral/pull/7) in [olaishola05/Coral](https://github.com/olaishola05/Coral)
-4. 💪 Opened PR [#5](https://github.com/olaishola05/ola-new/pull/5) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
-5. 🎉 Merged PR [#2](https://github.com/olaishola05/blade-repo/pull/2) in [olaishola05/blade-repo](https://github.com/olaishola05/blade-repo)
+1. 🎉 Merged PR [#1](https://github.com/olaishola05/go-blog-api/pull/1) in [olaishola05/go-blog-api](https://github.com/olaishola05/go-blog-api)
+2. 💪 Opened PR [#1](https://github.com/olaishola05/go-blog-api/pull/1) in [olaishola05/go-blog-api](https://github.com/olaishola05/go-blog-api)
+3. 🎉 Merged PR [#5](https://github.com/olaishola05/ola-new/pull/5) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
+4. 🎉 Merged PR [#7](https://github.com/olaishola05/Coral/pull/7) in [olaishola05/Coral](https://github.com/olaishola05/Coral)
+5. 💪 Opened PR [#7](https://github.com/olaishola05/Coral/pull/7) in [olaishola05/Coral](https://github.com/olaishola05/Coral)
 <!--END_SECTION:activity-->
 
 <br>
