@@ -11,19 +11,18 @@
 [![Instagram Badge](https://img.shields.io/badge/-@olaishola-FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/olaishola05)](https://www.instagram.com/olaishola05)
 
 
-I'm a Software Engineer and Content Creator who currently co-building Techverse Academy. I'm passionate about building customer-centric enterprise applications that scale, sharing knowledge, documentation, web engineering, DevOps, Data Engineering, and others. I create technical content (on [Medium](https://olaishola.medium.com/), and [YouTube](https://www.youtube.com/@Olaishola05))
+I'm a Software Engineer + DevOps and Content Creator who is currently co-building Techverse Academy. I'm passionate about building customer-centric enterprise applications that scale, sharing knowledge, documentation, web engineering, DevOps, Data Engineering, and other areas. I create technical content (on [Medium](https://olaishola.medium.com/), and [YouTube](https://www.youtube.com/@Olaishola05))
 
 **Here's a quick summary about me**:
 
 - 💇‍♂️ Pronouns: He/Him
-- 💡 Fun fact: I'm currently studying Data Engineering at AltSchool Africa [School of Data](https://data.altschoolafrica.com/programs/data-engineering) Class of 2024.
-- 🌱 I'm a graduate of Microverse Full Stack Web Development class of 2021 with over 3yrs remote work experience
+- 🌱 I'm a graduate of Microverse Full Stack Web Development class of 2021 with over 3 years of remote work experience
 - 🔭 I’m currently Co-building **Techverse Academy**
 - 👯 I’m looking to collaborate on **Open sources projects & Hackathons**
-- 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer and Data Engineer(Junior Level).
-- 🤝 I’m looking for help & mentorship with **becoming a Professional Data Engineer**
-- 💬 Ask me about **React, NextJS, Docker, Web Development, Node**
-- 📫 You can view my [view my resume](https://drive.google.com/file/d/1GJ73_-k1fYGG5xEXH6NRWz3_of13snN2/view?usp=sharing) and contact me by emailing **olaishola@hotmail.co.uk**
+- 💼 Job interests: Software Engineer, Frontend Engineer, Backend Engineer, and DevOps Engineer.
+- 🤝 I’m looking for help & mentorship with **becoming a better engineer**
+- 💬 Ask me about **React, NextJS, Docker, Web Development, Node, Backend Engineering**
+- 📫 You can view my [view my resume](https://docs.google.com/document/d/1LBdENWcDAmdAgUdT1SfbAV5SiJ8VtM54NNn6LdIbowE/edit?usp=sharing) and contact me by emailing **olaishola@hotmail.co.uk**
 - 🥅 2025 Goals: Contribute more to Open Source projects, be active in the community && Co-found something 
 
 <br>
