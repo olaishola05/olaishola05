@@ -11,7 +11,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@olaishola-FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/olaishola05)](https://www.instagram.com/olaishola05)
 
 
-I'm a Software Engineer + DevOps and Content Creator who is currently co-building Techverse Academy. I'm passionate about building customer-centric enterprise applications that scale, sharing knowledge, documentation, web engineering, DevOps, Data Engineering, and other areas. I create technical content (on [Medium](https://olaishola.medium.com/), and [YouTube](https://www.youtube.com/@Olaishola05))
+I'm a Software Engineer + DevOps and Content Creator who is currently co-building Techverse Academy. I'm passionate about building customer-centric enterprise applications that scale, sharing knowledge, documentation, web engineering, DevOps, and other areas. I create technical content (on [Medium](https://olaishola.medium.com/), and [YouTube](https://www.youtube.com/@Olaishola05))
 
 **Here's a quick summary about me**:
 
