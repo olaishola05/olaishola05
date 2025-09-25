@@ -65,8 +65,8 @@ I'm a Software Engineer + DevOps and Content Creator who is currently co-buildin
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/olaishola05/job-board-be/pull/2) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
-2. 💪 Opened PR [#2](https://github.com/olaishola05/job-board-be/pull/2) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
+1. 💪 Opened PR [#3](undefined) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
+2. 💪 Opened PR [#2](undefined) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
 3. 💪 Opened PR [#1](undefined) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
 4. 💪 Opened PR [#3](https://github.com/olaishola05/ALXprodev-advanced_git/pull/3) in [olaishola05/ALXprodev-advanced_git](https://github.com/olaishola05/ALXprodev-advanced_git)
 5. 🎉 Merged PR [#2](https://github.com/olaishola05/ALXprodev-advanced_git/pull/2) in [olaishola05/ALXprodev-advanced_git](https://github.com/olaishola05/ALXprodev-advanced_git)
