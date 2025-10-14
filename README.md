@@ -65,11 +65,11 @@ I'm a Software Engineer + DevOps and Content Creator who is currently co-buildin
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#7](https://github.com/olaishola05/job-board-be/pull/7) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
-2. 🎉 Merged PR [#6](https://github.com/olaishola05/job-board-be/pull/6) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
-3. 💪 Opened PR [#6](https://github.com/olaishola05/job-board-be/pull/6) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
-4. 🎉 Merged PR [#5](https://github.com/olaishola05/job-board-be/pull/5) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
-5. 💪 Opened PR [#5](https://github.com/olaishola05/job-board-be/pull/5) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
+1. 🎉 Merged PR [#7](https://github.com/olaishola05/job-board-be/pull/7) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
+2. 💪 Opened PR [#7](https://github.com/olaishola05/job-board-be/pull/7) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
+3. 🎉 Merged PR [#6](https://github.com/olaishola05/job-board-be/pull/6) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
+4. 💪 Opened PR [#6](https://github.com/olaishola05/job-board-be/pull/6) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
+5. 🎉 Merged PR [#5](https://github.com/olaishola05/job-board-be/pull/5) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
 <!--END_SECTION:activity-->
 
 <br>
