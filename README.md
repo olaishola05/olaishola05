@@ -11,19 +11,19 @@
 [![Instagram Badge](https://img.shields.io/badge/-@olaishola-FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/olaishola05)](https://www.instagram.com/olaishola05)
 
 
-I'm a Software Engineer + DevOps and Content Creator who is currently co-building Techverse Academy. I'm passionate about building customer-centric enterprise applications that scale, sharing knowledge, documentation, web engineering, DevOps, and other areas. I create technical content (on [Medium](https://olaishola.medium.com/), and [YouTube](https://www.youtube.com/@Olaishola05))
+I'm a Software Engineer + DevOps and Content Creator. I'm passionate about building customer-centric enterprise applications that scale, sharing knowledge, documentation, web engineering, DevOps, and other areas. I create technical content (on [Medium](https://olaishola.medium.com/), and [YouTube](https://www.youtube.com/@Olaishola05))
 
 **Here's a quick summary about me**:
 
 - 💇‍♂️ Pronouns: He/Him
-- 🌱 I'm a graduate of Microverse Full Stack Web Development class of 2021 with over 3 years of remote work experience
+- 🌱 I'm a graduate of Microverse Full Stack Web Development class of 2021 with over 4 years of remote work experience
 - 🔭 I’m currently Co-building **Techverse Academy**
 - 👯 I’m looking to collaborate on **Open sources projects & Hackathons**
 - 💼 Job interests: Software Engineer, Frontend Engineer, Backend Engineer, and DevOps Engineer.
 - 🤝 I’m looking for help & mentorship with **becoming a better engineer**
 - 💬 Ask me about **React, NextJS, Docker, Web Development, Node, Backend Engineering**
 - 📫 You can view my [view my resume](https://docs.google.com/document/d/1LBdENWcDAmdAgUdT1SfbAV5SiJ8VtM54NNn6LdIbowE/edit?usp=sharing) and contact me by emailing **olaishola@hotmail.co.uk**
-- 🥅 2025 Goals: Contribute more to Open Source projects, be active in the community && Co-found something 
+- 🥅 2025 Goals: Contribute more to Open Source projects, be active in the community. 
 
 <br>
 
@@ -74,9 +74,9 @@ I'm a Software Engineer + DevOps and Content Creator who is currently co-buildin
 
 <br>
 
-<p>You can check out my portfolio <a href="https://www.olaishola.tech/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="https://portfolio-phi-seven-88.vercel.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
-[website]: https://www.olaishola.tech/
+[website]: https://portfolio-phi-seven-88.vercel.app/
 [olaishola05]: https://github.com/olaishola05
 [twitter]: https://twitter.com/olaishola05
 [instagram]: https://instagram.com/xcodre
