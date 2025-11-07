@@ -6,9 +6,11 @@
 
 [![X Badge](https://img.shields.io/badge/-@olaishola05-blue?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/olaishola05)](https://x.com/olaishola05)
 [![Linkedin Badge](https://img.shields.io/badge/-olaishol05-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/olaishola05/)](https://www.linkedin.com/in/olaishola05/)
-[![Website Badge](https://img.shields.io/badge/-olaishola.com-392467?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://olaishola.com)](https://olaishola.com)
+[![Website Badge](https://img.shields.io/badge/-https://portfolio-phi-seven-88.vercel.app-392467?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://portfolio-phi-seven-88.vercel.app/)](https://portfolio-phi-seven-88.vercel.app/)
 [![Medium Badge](https://img.shields.io/badge/-@olaishola-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://olaishola.medium.com/)](https://olaishola.medium.com/)
 [![Instagram Badge](https://img.shields.io/badge/-@olaishola-FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/olaishola05)](https://www.instagram.com/olaishola05)
+![Linktree](https://img.shields.io/badge/-@olaishola05-43E55E?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/olaishola05)
+
 
 
 I'm a Software Engineer + DevOps and Content Creator. I'm passionate about building customer-centric enterprise applications that scale, sharing knowledge, documentation, web engineering, DevOps, and other areas. I create technical content (on [Medium](https://olaishola.medium.com/), and [YouTube](https://www.youtube.com/@Olaishola05))
