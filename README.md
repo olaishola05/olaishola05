@@ -6,7 +6,7 @@
 
 [![X Badge](https://img.shields.io/badge/-@olaishola05-blue?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/olaishola05)](https://x.com/olaishola05)
 [![Linkedin Badge](https://img.shields.io/badge/-olaishol05-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/olaishola05/)](https://www.linkedin.com/in/olaishola05/)
-[![Website Badge](https://img.shields.io/badge/-https://portfolio-phi-seven-88.vercel.app-392467?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://portfolio-phi-seven-88.vercel.app/)](https://portfolio-phi-seven-88.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/-portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://portfolio-phi-seven-88.vercel.app/)](https://portfolio-phi-seven-88.vercel.app/)
 [![Medium Badge](https://img.shields.io/badge/-@olaishola-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://olaishola.medium.com/)](https://olaishola.medium.com/)
 [![Instagram Badge](https://img.shields.io/badge/-@olaishola-FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/olaishola05)](https://www.instagram.com/olaishola05)
 ![Linktree](https://img.shields.io/badge/-@olaishola05-43E55E?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/olaishola05)
@@ -18,11 +18,10 @@ I'm a Software Engineer + DevOps and Content Creator. I'm passionate about build
 **Here's a quick summary about me**:
 
 - 💇‍♂️ Pronouns: He/Him
-- 🌱 I'm a graduate of Microverse Full Stack Web Development class of 2021 with over 4 years of remote work experience
+- 🌱 I'm a graduate of Microverse Full Stack Web Development class of 2021 & ALX ProDev Backend Engineering with over 4 years of remote work experience
 - 🔭 I’m currently Co-building **Techverse Academy**
 - 👯 I’m looking to collaborate on **Open sources projects & Hackathons**
 - 💼 Job interests: Software Engineer, Frontend Engineer, Backend Engineer, and DevOps Engineer.
-- 🤝 I’m looking for help & mentorship with **becoming a better engineer**
 - 💬 Ask me about **React, NextJS, Docker, Web Development, Node, Backend Engineering**
 - 📫 You can view my [view my resume](https://docs.google.com/document/d/1LBdENWcDAmdAgUdT1SfbAV5SiJ8VtM54NNn6LdIbowE/edit?usp=sharing) and contact me by emailing **olaishola@hotmail.co.uk**
 - 🥅 2025 Goals: Contribute more to Open Source projects, be active in the community. 
