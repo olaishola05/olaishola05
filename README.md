@@ -22,7 +22,7 @@ I'm a Software Engineer + DevOps practitioner and Content Creator. I'm passionat
 - 👯 I’m looking to collaborate on **Open sources & Impactful projects**
 - 💼 Job interests: Software Engineer, Frontend Engineer, Backend Engineer, and DevOps Engineer.
 - 💬 Ask me about **React, NextJS, Docker, Web Development, Node, Backend Engineering**
-- 📫 You can view my [view my resume](https://docs.google.com/document/d/1LBdENWcDAmdAgUdT1SfbAV5SiJ8VtM54NNn6LdIbowE/edit?usp=sharing) and contact me by emailing **olaishola.dev@gmail.com**
+- 📫 You can view my [resume](https://docs.google.com/document/d/1LBdENWcDAmdAgUdT1SfbAV5SiJ8VtM54NNn6LdIbowE/edit?usp=sharing) and contact me by emailing **olaishola.dev@gmail.com**
 - 🥅 2026 Goals: Contribute more to Open Source projects, be active in the community. 
 
 <br>
