@@ -47,7 +47,7 @@ I'm a Software Engineer + DevOps practitioner and Content Creator. I'm passionat
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/olaishola05/ola-new/pull/6) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
+1. 💪 Opened PR [#7](https://github.com/olaishola05/ola-new/pull/7) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
 2. 💪 Opened PR [#6](https://github.com/olaishola05/ola-new/pull/6) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
 3. 💪 Opened PR [#5](undefined) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
 4. 💪 Opened PR [#4](undefined) in [olaishola05/job-board-be](https://github.com/olaishola05/job-board-be)
