@@ -47,11 +47,11 @@ I'm a Software Engineer + DevOps practitioner and Content Creator. I'm passionat
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/olaishola05/foundation/pull/1) in [olaishola05/foundation](https://github.com/olaishola05/foundation)
-2. 💪 Opened PR [#1](https://github.com/olaishola05/foundation/pull/1) in [olaishola05/foundation](https://github.com/olaishola05/foundation)
-3. 🎉 Merged PR [#8](https://github.com/olaishola05/ola-new/pull/8) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
-4. 💪 Opened PR [#8](https://github.com/olaishola05/ola-new/pull/8) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
-5. 🎉 Merged PR [#7](https://github.com/olaishola05/ola-new/pull/7) in [olaishola05/ola-new](https://github.com/olaishola05/ola-new)
+1. 🎉 Merged PR [#3](https://github.com/olaishola05/workflow/pull/3) in [olaishola05/workflow](https://github.com/olaishola05/workflow)
+2. 💪 Opened PR [#3](https://github.com/olaishola05/workflow/pull/3) in [olaishola05/workflow](https://github.com/olaishola05/workflow)
+3. 🎉 Merged PR [#2](https://github.com/olaishola05/workflow/pull/2) in [olaishola05/workflow](https://github.com/olaishola05/workflow)
+4. 💪 Opened PR [#2](https://github.com/olaishola05/workflow/pull/2) in [olaishola05/workflow](https://github.com/olaishola05/workflow)
+5. 🎉 Merged PR [#1](https://github.com/olaishola05/workflow/pull/1) in [olaishola05/workflow](https://github.com/olaishola05/workflow)
 <!--END_SECTION:activity-->
 
 <br>
