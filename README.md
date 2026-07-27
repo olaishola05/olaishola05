@@ -47,8 +47,8 @@ I'm a Software Engineer + DevOps practitioner and Content Creator. I'm passionat
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/olaishola05/github_class/pull/1) in [olaishola05/github_class](https://github.com/olaishola05/github_class)
-2. 💪 Opened PR [#1](https://github.com/olaishola05/github_class/pull/1) in [olaishola05/github_class](https://github.com/olaishola05/github_class)
+1. 🎉 Merged PR [#8](https://github.com/olaishola05/content-engine/pull/8) in [olaishola05/content-engine](https://github.com/olaishola05/content-engine)
+2. 💪 Opened PR [#8](https://github.com/olaishola05/content-engine/pull/8) in [olaishola05/content-engine](https://github.com/olaishola05/content-engine)
 3. 🎉 Merged PR [#1](https://github.com/olaishola05/merge_class/pull/1) in [olaishola05/merge_class](https://github.com/olaishola05/merge_class)
 4. 💪 Opened PR [#1](https://github.com/olaishola05/merge_class/pull/1) in [olaishola05/merge_class](https://github.com/olaishola05/merge_class)
 5. 💪 Opened PR [#7](https://github.com/olaishola05/content-engine/pull/7) in [olaishola05/content-engine](https://github.com/olaishola05/content-engine)
