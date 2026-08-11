@@ -47,11 +47,11 @@ I'm a Software Engineer + DevOps practitioner and Content Creator. I'm passionat
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/olaishola05/software-consultancy/pull/2) in [olaishola05/software-consultancy](https://github.com/olaishola05/software-consultancy)
-2. 💪 Opened PR [#2](https://github.com/olaishola05/software-consultancy/pull/2) in [olaishola05/software-consultancy](https://github.com/olaishola05/software-consultancy)
-3. 🎉 Merged PR [#1](https://github.com/olaishola05/software-consultancy/pull/1) in [olaishola05/software-consultancy](https://github.com/olaishola05/software-consultancy)
-4. 💪 Opened PR [#1](https://github.com/olaishola05/software-consultancy/pull/1) in [olaishola05/software-consultancy](https://github.com/olaishola05/software-consultancy)
-5. 💪 Opened PR [#2](https://github.com/olaishola05/ai-brand-extractor/pull/2) in [olaishola05/ai-brand-extractor](https://github.com/olaishola05/ai-brand-extractor)
+1. 🎉 Merged PR [#3](https://github.com/olaishola05/software-consultancy/pull/3) in [olaishola05/software-consultancy](https://github.com/olaishola05/software-consultancy)
+2. 💪 Opened PR [#3](https://github.com/olaishola05/software-consultancy/pull/3) in [olaishola05/software-consultancy](https://github.com/olaishola05/software-consultancy)
+3. 🎉 Merged PR [#2](https://github.com/olaishola05/software-consultancy/pull/2) in [olaishola05/software-consultancy](https://github.com/olaishola05/software-consultancy)
+4. 💪 Opened PR [#2](https://github.com/olaishola05/software-consultancy/pull/2) in [olaishola05/software-consultancy](https://github.com/olaishola05/software-consultancy)
+5. 🎉 Merged PR [#1](https://github.com/olaishola05/software-consultancy/pull/1) in [olaishola05/software-consultancy](https://github.com/olaishola05/software-consultancy)
 <!--END_SECTION:activity-->
 
 <br>
